@@ -1,0 +1,190 @@
+itemset,support
+"('Dry Fit V-Nick',)",0.5
+"('Hoodies',)",0.4
+"('Modern Pants',)",0.5
+"('Rash Guard',)",0.6
+"('Running Shoe',)",0.7
+"('Soccer Shoe',)",0.3
+"('Socks',)",0.65
+"('Sweatshirts',)",0.65
+"('Swimming Shirt',)",0.55
+"('Tech Pants',)",0.45
+"('Hoodies', 'Dry Fit V-Nick')",0.35
+"('Modern Pants', 'Dry Fit V-Nick')",0.25
+"('Rash Guard', 'Dry Fit V-Nick')",0.5
+"('Running Shoe', 'Dry Fit V-Nick')",0.25
+"('Soccer Shoe', 'Dry Fit V-Nick')",0.25
+"('Socks', 'Dry Fit V-Nick')",0.25
+"('Sweatshirts', 'Dry Fit V-Nick')",0.25
+"('Swimming Shirt', 'Dry Fit V-Nick')",0.45
+"('Tech Pants', 'Dry Fit V-Nick')",0.4
+"('Hoodies', 'Modern Pants')",0.25
+"('Hoodies', 'Rash Guard')",0.4
+"('Hoodies', 'Running Shoe')",0.25
+"('Hoodies', 'Soccer Shoe')",0.25
+"('Hoodies', 'Socks')",0.25
+"('Hoodies', 'Sweatshirts')",0.25
+"('Hoodies', 'Swimming Shirt')",0.3
+"('Hoodies', 'Tech Pants')",0.4
+"('Modern Pants', 'Rash Guard')",0.3
+"('Modern Pants', 'Running Shoe')",0.45
+"('Soccer Shoe', 'Modern Pants')",0.25
+"('Modern Pants', 'Socks')",0.45
+"('Modern Pants', 'Sweatshirts')",0.5
+"('Tech Pants', 'Modern Pants')",0.3
+"('Rash Guard', 'Running Shoe')",0.35
+"('Soccer Shoe', 'Rash Guard')",0.25
+"('Socks', 'Rash Guard')",0.3
+"('Sweatshirts', 'Rash Guard')",0.3
+"('Swimming Shirt', 'Rash Guard')",0.5
+"('Tech Pants', 'Rash Guard')",0.45
+"('Socks', 'Running Shoe')",0.55
+"('Sweatshirts', 'Running Shoe')",0.55
+"('Swimming Shirt', 'Running Shoe')",0.3
+"('Tech Pants', 'Running Shoe')",0.3
+"('Soccer Shoe', 'Socks')",0.25
+"('Soccer Shoe', 'Sweatshirts')",0.25
+"('Soccer Shoe', 'Tech Pants')",0.25
+"('Socks', 'Sweatshirts')",0.6
+"('Swimming Shirt', 'Socks')",0.25
+"('Tech Pants', 'Socks')",0.3
+"('Swimming Shirt', 'Sweatshirts')",0.25
+"('Tech Pants', 'Sweatshirts')",0.3
+"('Tech Pants', 'Swimming Shirt')",0.35
+"('Hoodies', 'Rash Guard', 'Dry Fit V-Nick')",0.35
+"('Hoodies', 'Soccer Shoe', 'Dry Fit V-Nick')",0.25
+"('Hoodies', 'Swimming Shirt', 'Dry Fit V-Nick')",0.3
+"('Hoodies', 'Tech Pants', 'Dry Fit V-Nick')",0.35
+"('Modern Pants', 'Rash Guard', 'Dry Fit V-Nick')",0.25
+"('Modern Pants', 'Socks', 'Dry Fit V-Nick')",0.25
+"('Modern Pants', 'Sweatshirts', 'Dry Fit V-Nick')",0.25
+"('Tech Pants', 'Modern Pants', 'Dry Fit V-Nick')",0.25
+"('Running Shoe', 'Rash Guard', 'Dry Fit V-Nick')",0.25
+"('Soccer Shoe', 'Rash Guard', 'Dry Fit V-Nick')",0.25
+"('Socks', 'Rash Guard', 'Dry Fit V-Nick')",0.25
+"('Sweatshirts', 'Rash Guard', 'Dry Fit V-Nick')",0.25
+"('Swimming Shirt', 'Rash Guard', 'Dry Fit V-Nick')",0.45
+"('Tech Pants', 'Rash Guard', 'Dry Fit V-Nick')",0.4
+"('Swimming Shirt', 'Running Shoe', 'Dry Fit V-Nick')",0.25
+"('Tech Pants', 'Running Shoe', 'Dry Fit V-Nick')",0.25
+"('Soccer Shoe', 'Tech Pants', 'Dry Fit V-Nick')",0.25
+"('Socks', 'Sweatshirts', 'Dry Fit V-Nick')",0.25
+"('Tech Pants', 'Socks', 'Dry Fit V-Nick')",0.25
+"('Tech Pants', 'Sweatshirts', 'Dry Fit V-Nick')",0.25
+"('Tech Pants', 'Swimming Shirt', 'Dry Fit V-Nick')",0.35
+"('Hoodies', 'Modern Pants', 'Rash Guard')",0.25
+"('Hoodies', 'Modern Pants', 'Socks')",0.25
+"('Hoodies', 'Modern Pants', 'Sweatshirts')",0.25
+"('Hoodies', 'Tech Pants', 'Modern Pants')",0.25
+"('Hoodies', 'Rash Guard', 'Running Shoe')",0.25
+"('Hoodies', 'Soccer Shoe', 'Rash Guard')",0.25
+"('Hoodies', 'Socks', 'Rash Guard')",0.25
+"('Hoodies', 'Sweatshirts', 'Rash Guard')",0.25
+"('Hoodies', 'Swimming Shirt', 'Rash Guard')",0.3
+"('Hoodies', 'Tech Pants', 'Rash Guard')",0.4
+"('Hoodies', 'Tech Pants', 'Running Shoe')",0.25
+"('Hoodies', 'Tech Pants', 'Soccer Shoe')",0.25
+"('Hoodies', 'Socks', 'Sweatshirts')",0.25
+"('Hoodies', 'Tech Pants', 'Socks')",0.25
+"('Hoodies', 'Tech Pants', 'Sweatshirts')",0.25
+"('Hoodies', 'Swimming Shirt', 'Tech Pants')",0.3
+"('Modern Pants', 'Rash Guard', 'Running Shoe')",0.25
+"('Modern Pants', 'Socks', 'Rash Guard')",0.3
+"('Modern Pants', 'Sweatshirts', 'Rash Guard')",0.3
+"('Tech Pants', 'Modern Pants', 'Rash Guard')",0.3
+"('Modern Pants', 'Socks', 'Running Shoe')",0.4
+"('Modern Pants', 'Sweatshirts', 'Running Shoe')",0.45
+"('Tech Pants', 'Modern Pants', 'Running Shoe')",0.25
+"('Soccer Shoe', 'Modern Pants', 'Socks')",0.25
+"('Soccer Shoe', 'Modern Pants', 'Sweatshirts')",0.25
+"('Modern Pants', 'Sweatshirts', 'Socks')",0.45
+"('Tech Pants', 'Modern Pants', 'Socks')",0.3
+"('Tech Pants', 'Modern Pants', 'Sweatshirts')",0.3
+"('Socks', 'Rash Guard', 'Running Shoe')",0.25
+"('Sweatshirts', 'Rash Guard', 'Running Shoe')",0.25
+"('Swimming Shirt', 'Rash Guard', 'Running Shoe')",0.3
+"('Tech Pants', 'Rash Guard', 'Running Shoe')",0.3
+"('Soccer Shoe', 'Tech Pants', 'Rash Guard')",0.25
+"('Socks', 'Sweatshirts', 'Rash Guard')",0.3
+"('Tech Pants', 'Socks', 'Rash Guard')",0.3
+"('Tech Pants', 'Sweatshirts', 'Rash Guard')",0.3
+"('Tech Pants', 'Swimming Shirt', 'Rash Guard')",0.35
+"('Socks', 'Sweatshirts', 'Running Shoe')",0.5
+"('Tech Pants', 'Socks', 'Running Shoe')",0.25
+"('Tech Pants', 'Sweatshirts', 'Running Shoe')",0.25
+"('Tech Pants', 'Swimming Shirt', 'Running Shoe')",0.25
+"('Soccer Shoe', 'Socks', 'Sweatshirts')",0.25
+"('Swimming Shirt', 'Socks', 'Sweatshirts')",0.25
+"('Tech Pants', 'Socks', 'Sweatshirts')",0.3
+"('Hoodies', 'Soccer Shoe', 'Rash Guard', 'Dry Fit V-Nick')",0.25
+"('Hoodies', 'Swimming Shirt', 'Rash Guard', 'Dry Fit V-Nick')",0.3
+"('Hoodies', 'Tech Pants', 'Rash Guard', 'Dry Fit V-Nick')",0.35
+"('Hoodies', 'Tech Pants', 'Soccer Shoe', 'Dry Fit V-Nick')",0.25
+"('Hoodies', 'Swimming Shirt', 'Tech Pants', 'Dry Fit V-Nick')",0.3
+"('Modern Pants', 'Socks', 'Rash Guard', 'Dry Fit V-Nick')",0.25
+"('Modern Pants', 'Sweatshirts', 'Rash Guard', 'Dry Fit V-Nick')",0.25
+"('Tech Pants', 'Modern Pants', 'Rash Guard', 'Dry Fit V-Nick')",0.25
+"('Modern Pants', 'Sweatshirts', 'Socks', 'Dry Fit V-Nick')",0.25
+"('Tech Pants', 'Modern Pants', 'Socks', 'Dry Fit V-Nick')",0.25
+"('Tech Pants', 'Modern Pants', 'Sweatshirts', 'Dry Fit V-Nick')",0.25
+"('Swimming Shirt', 'Running Shoe', 'Rash Guard', 'Dry Fit V-Nick')",0.25
+"('Tech Pants', 'Running Shoe', 'Rash Guard', 'Dry Fit V-Nick')",0.25
+"('Soccer Shoe', 'Tech Pants', 'Rash Guard', 'Dry Fit V-Nick')",0.25
+"('Socks', 'Sweatshirts', 'Rash Guard', 'Dry Fit V-Nick')",0.25
+"('Tech Pants', 'Socks', 'Rash Guard', 'Dry Fit V-Nick')",0.25
+"('Tech Pants', 'Sweatshirts', 'Rash Guard', 'Dry Fit V-Nick')",0.25
+"('Tech Pants', 'Swimming Shirt', 'Rash Guard', 'Dry Fit V-Nick')",0.35
+"('Tech Pants', 'Swimming Shirt', 'Running Shoe', 'Dry Fit V-Nick')",0.25
+"('Tech Pants', 'Socks', 'Sweatshirts', 'Dry Fit V-Nick')",0.25
+"('Hoodies', 'Modern Pants', 'Socks', 'Rash Guard')",0.25
+"('Hoodies', 'Modern Pants', 'Sweatshirts', 'Rash Guard')",0.25
+"('Hoodies', 'Tech Pants', 'Modern Pants', 'Rash Guard')",0.25
+"('Hoodies', 'Modern Pants', 'Sweatshirts', 'Socks')",0.25
+"('Hoodies', 'Tech Pants', 'Modern Pants', 'Socks')",0.25
+"('Hoodies', 'Tech Pants', 'Modern Pants', 'Sweatshirts')",0.25
+"('Hoodies', 'Tech Pants', 'Rash Guard', 'Running Shoe')",0.25
+"('Hoodies', 'Tech Pants', 'Soccer Shoe', 'Rash Guard')",0.25
+"('Hoodies', 'Socks', 'Sweatshirts', 'Rash Guard')",0.25
+"('Hoodies', 'Tech Pants', 'Socks', 'Rash Guard')",0.25
+"('Hoodies', 'Tech Pants', 'Sweatshirts', 'Rash Guard')",0.25
+"('Hoodies', 'Swimming Shirt', 'Tech Pants', 'Rash Guard')",0.3
+"('Hoodies', 'Tech Pants', 'Socks', 'Sweatshirts')",0.25
+"('Modern Pants', 'Socks', 'Rash Guard', 'Running Shoe')",0.25
+"('Modern Pants', 'Sweatshirts', 'Rash Guard', 'Running Shoe')",0.25
+"('Tech Pants', 'Modern Pants', 'Rash Guard', 'Running Shoe')",0.25
+"('Sweatshirts', 'Modern Pants', 'Socks', 'Rash Guard')",0.3
+"('Tech Pants', 'Modern Pants', 'Socks', 'Rash Guard')",0.3
+"('Tech Pants', 'Modern Pants', 'Sweatshirts', 'Rash Guard')",0.3
+"('Sweatshirts', 'Modern Pants', 'Socks', 'Running Shoe')",0.4
+"('Tech Pants', 'Modern Pants', 'Socks', 'Running Shoe')",0.25
+"('Tech Pants', 'Modern Pants', 'Sweatshirts', 'Running Shoe')",0.25
+"('Soccer Shoe', 'Modern Pants', 'Sweatshirts', 'Socks')",0.25
+"('Tech Pants', 'Modern Pants', 'Sweatshirts', 'Socks')",0.3
+"('Socks', 'Sweatshirts', 'Rash Guard', 'Running Shoe')",0.25
+"('Tech Pants', 'Socks', 'Rash Guard', 'Running Shoe')",0.25
+"('Tech Pants', 'Sweatshirts', 'Rash Guard', 'Running Shoe')",0.25
+"('Tech Pants', 'Swimming Shirt', 'Rash Guard', 'Running Shoe')",0.25
+"('Tech Pants', 'Socks', 'Sweatshirts', 'Rash Guard')",0.3
+"('Tech Pants', 'Socks', 'Sweatshirts', 'Running Shoe')",0.25
+"('Hoodies', 'Tech Pants', 'Rash Guard', 'Soccer Shoe', 'Dry Fit V-Nick')",0.25
+"('Hoodies', 'Tech Pants', 'Swimming Shirt', 'Rash Guard', 'Dry Fit V-Nick')",0.3
+"('Sweatshirts', 'Socks', 'Rash Guard', 'Modern Pants', 'Dry Fit V-Nick')",0.25
+"('Tech Pants', 'Socks', 'Rash Guard', 'Modern Pants', 'Dry Fit V-Nick')",0.25
+"('Sweatshirts', 'Tech Pants', 'Rash Guard', 'Modern Pants', 'Dry Fit V-Nick')",0.25
+"('Sweatshirts', 'Tech Pants', 'Socks', 'Modern Pants', 'Dry Fit V-Nick')",0.25
+"('Tech Pants', 'Swimming Shirt', 'Rash Guard', 'Running Shoe', 'Dry Fit V-Nick')",0.25
+"('Sweatshirts', 'Tech Pants', 'Socks', 'Rash Guard', 'Dry Fit V-Nick')",0.25
+"('Hoodies', 'Sweatshirts', 'Socks', 'Rash Guard', 'Modern Pants')",0.25
+"('Hoodies', 'Tech Pants', 'Socks', 'Rash Guard', 'Modern Pants')",0.25
+"('Hoodies', 'Sweatshirts', 'Tech Pants', 'Rash Guard', 'Modern Pants')",0.25
+"('Hoodies', 'Sweatshirts', 'Tech Pants', 'Socks', 'Modern Pants')",0.25
+"('Hoodies', 'Sweatshirts', 'Tech Pants', 'Socks', 'Rash Guard')",0.25
+"('Sweatshirts', 'Socks', 'Rash Guard', 'Running Shoe', 'Modern Pants')",0.25
+"('Tech Pants', 'Socks', 'Rash Guard', 'Running Shoe', 'Modern Pants')",0.25
+"('Sweatshirts', 'Tech Pants', 'Rash Guard', 'Running Shoe', 'Modern Pants')",0.25
+"('Sweatshirts', 'Tech Pants', 'Socks', 'Rash Guard', 'Modern Pants')",0.3
+"('Sweatshirts', 'Tech Pants', 'Socks', 'Running Shoe', 'Modern Pants')",0.25
+"('Sweatshirts', 'Tech Pants', 'Socks', 'Rash Guard', 'Running Shoe')",0.25
+"('Sweatshirts', 'Tech Pants', 'Socks', 'Rash Guard', 'Modern Pants', 'Dry Fit V-Nick')",0.25
+"('Hoodies', 'Sweatshirts', 'Tech Pants', 'Socks', 'Rash Guard', 'Modern Pants')",0.25
+"('Sweatshirts', 'Tech Pants', 'Socks', 'Rash Guard', 'Running Shoe', 'Modern Pants')",0.25

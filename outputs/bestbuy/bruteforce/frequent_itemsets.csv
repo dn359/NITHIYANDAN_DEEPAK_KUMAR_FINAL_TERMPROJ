@@ -1,0 +1,122 @@
+itemset,support
+"('Anti-Virus',)",0.7
+"('Desk Top',)",0.3
+"('Digital Camera',)",0.45
+"('External Hard-Drive',)",0.45
+"('Flash Drive',)",0.65
+"('Lab Top',)",0.6
+"('Lab Top Case',)",0.7
+"('Microsoft Office',)",0.55
+"('Printer',)",0.5
+"('Speakers',)",0.55
+"('Anti-Virus', 'Digital Camera')",0.25
+"('Anti-Virus', 'External Hard-Drive')",0.45
+"('Anti-Virus', 'Flash Drive')",0.5
+"('Anti-Virus', 'Lab Top')",0.5
+"('Lab Top Case', 'Anti-Virus')",0.6
+"('Anti-Virus', 'Microsoft Office')",0.4
+"('Printer', 'Anti-Virus')",0.35
+"('Anti-Virus', 'Speakers')",0.45
+"('Desk Top', 'Flash Drive')",0.25
+"('Desk Top', 'Microsoft Office')",0.25
+"('Desk Top', 'Printer')",0.25
+"('Digital Camera', 'Lab Top')",0.25
+"('Lab Top Case', 'Digital Camera')",0.35
+"('Speakers', 'Digital Camera')",0.35
+"('External Hard-Drive', 'Flash Drive')",0.3
+"('External Hard-Drive', 'Lab Top')",0.3
+"('Lab Top Case', 'External Hard-Drive')",0.4
+"('External Hard-Drive', 'Microsoft Office')",0.25
+"('Printer', 'External Hard-Drive')",0.25
+"('External Hard-Drive', 'Speakers')",0.3
+"('Flash Drive', 'Lab Top')",0.35
+"('Lab Top Case', 'Flash Drive')",0.45
+"('Microsoft Office', 'Flash Drive')",0.55
+"('Printer', 'Flash Drive')",0.5
+"('Speakers', 'Flash Drive')",0.3
+"('Lab Top Case', 'Lab Top')",0.5
+"('Microsoft Office', 'Lab Top')",0.25
+"('Printer', 'Lab Top')",0.25
+"('Speakers', 'Lab Top')",0.25
+"('Lab Top Case', 'Microsoft Office')",0.35
+"('Printer', 'Lab Top Case')",0.3
+"('Lab Top Case', 'Speakers')",0.45
+"('Printer', 'Microsoft Office')",0.45
+"('Speakers', 'Microsoft Office')",0.3
+"('Printer', 'Speakers')",0.25
+"('Lab Top Case', 'Anti-Virus', 'Digital Camera')",0.25
+"('Anti-Virus', 'Speakers', 'Digital Camera')",0.25
+"('Anti-Virus', 'Flash Drive', 'External Hard-Drive')",0.3
+"('Anti-Virus', 'External Hard-Drive', 'Lab Top')",0.3
+"('Lab Top Case', 'Anti-Virus', 'External Hard-Drive')",0.4
+"('Anti-Virus', 'Microsoft Office', 'External Hard-Drive')",0.25
+"('Printer', 'Anti-Virus', 'External Hard-Drive')",0.25
+"('Anti-Virus', 'Speakers', 'External Hard-Drive')",0.3
+"('Anti-Virus', 'Flash Drive', 'Lab Top')",0.3
+"('Lab Top Case', 'Anti-Virus', 'Flash Drive')",0.45
+"('Anti-Virus', 'Microsoft Office', 'Flash Drive')",0.4
+"('Printer', 'Anti-Virus', 'Flash Drive')",0.35
+"('Anti-Virus', 'Speakers', 'Flash Drive')",0.3
+"('Lab Top Case', 'Anti-Virus', 'Lab Top')",0.45
+"('Anti-Virus', 'Speakers', 'Lab Top')",0.25
+"('Lab Top Case', 'Anti-Virus', 'Microsoft Office')",0.35
+"('Lab Top Case', 'Printer', 'Anti-Virus')",0.3
+"('Lab Top Case', 'Anti-Virus', 'Speakers')",0.4
+"('Printer', 'Anti-Virus', 'Microsoft Office')",0.3
+"('Speakers', 'Anti-Virus', 'Microsoft Office')",0.3
+"('Printer', 'Anti-Virus', 'Speakers')",0.25
+"('Desk Top', 'Microsoft Office', 'Flash Drive')",0.25
+"('Desk Top', 'Printer', 'Flash Drive')",0.25
+"('Desk Top', 'Printer', 'Microsoft Office')",0.25
+"('Lab Top Case', 'Digital Camera', 'Lab Top')",0.25
+"('Lab Top Case', 'Speakers', 'Digital Camera')",0.3
+"('Lab Top Case', 'External Hard-Drive', 'Flash Drive')",0.3
+"('External Hard-Drive', 'Microsoft Office', 'Flash Drive')",0.25
+"('Printer', 'External Hard-Drive', 'Flash Drive')",0.25
+"('Lab Top Case', 'External Hard-Drive', 'Lab Top')",0.25
+"('Lab Top Case', 'External Hard-Drive', 'Microsoft Office')",0.25
+"('Lab Top Case', 'Printer', 'External Hard-Drive')",0.25
+"('Lab Top Case', 'External Hard-Drive', 'Speakers')",0.3
+"('Lab Top Case', 'Flash Drive', 'Lab Top')",0.3
+"('Microsoft Office', 'Flash Drive', 'Lab Top')",0.25
+"('Printer', 'Flash Drive', 'Lab Top')",0.25
+"('Lab Top Case', 'Microsoft Office', 'Flash Drive')",0.35
+"('Printer', 'Lab Top Case', 'Flash Drive')",0.3
+"('Lab Top Case', 'Speakers', 'Flash Drive')",0.25
+"('Printer', 'Microsoft Office', 'Flash Drive')",0.45
+"('Speakers', 'Microsoft Office', 'Flash Drive')",0.3
+"('Printer', 'Speakers', 'Flash Drive')",0.25
+"('Lab Top Case', 'Speakers', 'Lab Top')",0.25
+"('Printer', 'Lab Top Case', 'Microsoft Office')",0.25
+"('Speakers', 'Lab Top Case', 'Microsoft Office')",0.25
+"('Speakers', 'Printer', 'Microsoft Office')",0.25
+"('Lab Top Case', 'Anti-Virus', 'Speakers', 'Digital Camera')",0.25
+"('Lab Top Case', 'Anti-Virus', 'Flash Drive', 'External Hard-Drive')",0.3
+"('Anti-Virus', 'Microsoft Office', 'Flash Drive', 'External Hard-Drive')",0.25
+"('Printer', 'Anti-Virus', 'Flash Drive', 'External Hard-Drive')",0.25
+"('Lab Top Case', 'Anti-Virus', 'External Hard-Drive', 'Lab Top')",0.25
+"('Lab Top Case', 'Anti-Virus', 'Microsoft Office', 'External Hard-Drive')",0.25
+"('Lab Top Case', 'Printer', 'Anti-Virus', 'External Hard-Drive')",0.25
+"('Lab Top Case', 'Anti-Virus', 'Speakers', 'External Hard-Drive')",0.3
+"('Lab Top Case', 'Anti-Virus', 'Flash Drive', 'Lab Top')",0.3
+"('Lab Top Case', 'Anti-Virus', 'Microsoft Office', 'Flash Drive')",0.35
+"('Lab Top Case', 'Printer', 'Anti-Virus', 'Flash Drive')",0.3
+"('Lab Top Case', 'Anti-Virus', 'Speakers', 'Flash Drive')",0.25
+"('Printer', 'Anti-Virus', 'Microsoft Office', 'Flash Drive')",0.3
+"('Speakers', 'Anti-Virus', 'Microsoft Office', 'Flash Drive')",0.3
+"('Printer', 'Anti-Virus', 'Speakers', 'Flash Drive')",0.25
+"('Lab Top Case', 'Anti-Virus', 'Speakers', 'Lab Top')",0.25
+"('Lab Top Case', 'Printer', 'Anti-Virus', 'Microsoft Office')",0.25
+"('Lab Top Case', 'Anti-Virus', 'Microsoft Office', 'Speakers')",0.25
+"('Speakers', 'Printer', 'Anti-Virus', 'Microsoft Office')",0.25
+"('Desk Top', 'Printer', 'Microsoft Office', 'Flash Drive')",0.25
+"('Lab Top Case', 'External Hard-Drive', 'Microsoft Office', 'Flash Drive')",0.25
+"('Lab Top Case', 'Printer', 'External Hard-Drive', 'Flash Drive')",0.25
+"('Printer', 'Lab Top Case', 'Microsoft Office', 'Flash Drive')",0.25
+"('Speakers', 'Lab Top Case', 'Microsoft Office', 'Flash Drive')",0.25
+"('Speakers', 'Printer', 'Microsoft Office', 'Flash Drive')",0.25
+"('Lab Top Case', 'Microsoft Office', 'Flash Drive', 'Anti-Virus', 'External Hard-Drive')",0.25
+"('Lab Top Case', 'Printer', 'Flash Drive', 'Anti-Virus', 'External Hard-Drive')",0.25
+"('Lab Top Case', 'Microsoft Office', 'Printer', 'Flash Drive', 'Anti-Virus')",0.25
+"('Lab Top Case', 'Microsoft Office', 'Speakers', 'Flash Drive', 'Anti-Virus')",0.25
+"('Speakers', 'Microsoft Office', 'Printer', 'Flash Drive', 'Anti-Virus')",0.25

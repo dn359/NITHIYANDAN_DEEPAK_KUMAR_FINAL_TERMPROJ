@@ -1,0 +1,52 @@
+itemset,support
+"('Kids Bedding',)",0.6
+"('Bed Skirts',)",0.55
+"('Shams',)",0.55
+"('Bed Skirts', 'Kids Bedding')",0.5
+"('Kids Bedding', 'Sheets')",0.5
+"('Decorative Pillows',)",0.5
+"('Sheets',)",0.5
+"('Bed Skirts', 'Kids Bedding', 'Sheets')",0.45
+"('Bed Skirts', 'Sheets')",0.45
+"('Bed Skirts', 'Shams')",0.45
+"('Kids Bedding', 'Shams')",0.45
+"('Bed Skirts', 'Kids Bedding', 'Shams')",0.4
+"('Quilts',)",0.4
+"('Shams', 'Sheets')",0.35
+"('Bedspreads',)",0.35
+"('Kids Bedding', 'Shams', 'Sheets')",0.35
+"('Bedding Collections',)",0.35
+"('Bed Skirts', 'Kids Bedding', 'Shams', 'Sheets')",0.35
+"('Bed Skirts', 'Shams', 'Sheets')",0.35
+"('Bed Skirts', 'Bedspreads', 'Kids Bedding', 'Sheets')",0.35
+"('Bed Skirts', 'Bedspreads', 'Sheets')",0.35
+"('Bedspreads', 'Sheets')",0.35
+"('Bed Skirts', 'Bedspreads')",0.35
+"('Bedspreads', 'Kids Bedding')",0.35
+"('Bed Skirts', 'Bedspreads', 'Kids Bedding')",0.35
+"('Bedspreads', 'Kids Bedding', 'Sheets')",0.35
+"('Embroidered Bedspread',)",0.3
+"('Decorative Pillows', 'Quilts')",0.3
+"('Bedding Collections', 'Kids Bedding')",0.3
+"('Bed Skirts', 'Bedspreads', 'Shams')",0.25
+"('Bedspreads', 'Shams')",0.25
+"('Bedspreads', 'Kids Bedding', 'Shams')",0.25
+"('Bed Skirts', 'Bedspreads', 'Shams', 'Sheets')",0.25
+"('Bedspreads', 'Kids Bedding', 'Shams', 'Sheets')",0.25
+"('Bedspreads', 'Shams', 'Sheets')",0.25
+"('Bed Skirts', 'Bedspreads', 'Kids Bedding', 'Shams')",0.25
+"('Bed Skirts', 'Bedspreads', 'Kids Bedding', 'Shams', 'Sheets')",0.25
+"('Bedding Collections', 'Bedspreads')",0.25
+"('Bedding Collections', 'Sheets')",0.25
+"('Bed Skirts', 'Bedding Collections')",0.25
+"('Bedding Collections', 'Bedspreads', 'Kids Bedding')",0.25
+"('Bedding Collections', 'Kids Bedding', 'Sheets')",0.25
+"('Bed Skirts', 'Bedding Collections', 'Kids Bedding')",0.25
+"('Bedding Collections', 'Bedspreads', 'Sheets')",0.25
+"('Bed Skirts', 'Bedding Collections', 'Bedspreads')",0.25
+"('Bed Skirts', 'Bedding Collections', 'Sheets')",0.25
+"('Bedding Collections', 'Bedspreads', 'Kids Bedding', 'Sheets')",0.25
+"('Bed Skirts', 'Bedding Collections', 'Bedspreads', 'Kids Bedding')",0.25
+"('Bed Skirts', 'Bedding Collections', 'Kids Bedding', 'Sheets')",0.25
+"('Bed Skirts', 'Bedding Collections', 'Bedspreads', 'Sheets')",0.25
+"('Bed Skirts', 'Bedding Collections', 'Bedspreads', 'Kids Bedding', 'Sheets')",0.25

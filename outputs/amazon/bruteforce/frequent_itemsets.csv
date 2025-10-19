@@ -1,0 +1,16 @@
+itemset,support
+"('A Beginner’s Guide',)",0.55
+"('Android Programming: The Big Nerd Ranch',)",0.65
+"('Beginning Programming with Java',)",0.3
+"('Head First Java 2nd Edition',)",0.4
+"('Java For Dummies',)",0.65
+"('Java: The Complete Reference',)",0.5
+"('Android Programming: The Big Nerd Ranch', 'A Beginner’s Guide')",0.3
+"('Java For Dummies', 'A Beginner’s Guide')",0.45
+"('Java: The Complete Reference', 'A Beginner’s Guide')",0.45
+"('Head First Java 2nd Edition', 'Android Programming: The Big Nerd Ranch')",0.3
+"('Java For Dummies', 'Android Programming: The Big Nerd Ranch')",0.45
+"('Java: The Complete Reference', 'Android Programming: The Big Nerd Ranch')",0.3
+"('Java: The Complete Reference', 'Java For Dummies')",0.5
+"('Java: The Complete Reference', 'Java For Dummies', 'A Beginner’s Guide')",0.45
+"('Java: The Complete Reference', 'Java For Dummies', 'Android Programming: The Big Nerd Ranch')",0.3

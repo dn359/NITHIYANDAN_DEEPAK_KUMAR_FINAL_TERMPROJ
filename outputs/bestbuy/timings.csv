@@ -1,0 +1,4 @@
+algorithm,seconds
+bruteforce,0.0067
+apriori,0.0179
+fpgrowth,0.0224

@@ -1,0 +1,457 @@
+antecedent,consequent,support,confidence
+"('Microsoft Office',)","('Flash Drive',)",0.55,1.0
+"('Printer',)","('Flash Drive',)",0.5,1.0
+"('External Hard-Drive',)","('Anti-Virus',)",0.45,1.0
+"('Flash Drive', 'Lab Top Case')","('Anti-Virus',)",0.45,1.0
+"('Microsoft Office', 'Printer')","('Flash Drive',)",0.45,1.0
+"('Anti-Virus', 'Microsoft Office')","('Flash Drive',)",0.4,1.0
+"('External Hard-Drive', 'Lab Top Case')","('Anti-Virus',)",0.4,1.0
+"('Anti-Virus', 'Lab Top Case', 'Microsoft Office')","('Flash Drive',)",0.35,1.0
+"('Anti-Virus', 'Printer')","('Flash Drive',)",0.35,1.0
+"('Flash Drive', 'Lab Top Case', 'Microsoft Office')","('Anti-Virus',)",0.35,1.0
+"('Lab Top Case', 'Microsoft Office')","('Anti-Virus',)",0.35,1.0
+"('Lab Top Case', 'Microsoft Office')","('Flash Drive',)",0.35,1.0
+"('Lab Top Case', 'Microsoft Office')","('Anti-Virus', 'Flash Drive')",0.35,1.0
+"('Anti-Virus', 'External Hard-Drive', 'Flash Drive')","('Lab Top Case',)",0.3,1.0
+"('Anti-Virus', 'External Hard-Drive', 'Speakers')","('Lab Top Case',)",0.3,1.0
+"('Anti-Virus', 'Flash Drive', 'Lab Top')","('Lab Top Case',)",0.3,1.0
+"('Anti-Virus', 'Flash Drive', 'Speakers')","('Microsoft Office',)",0.3,1.0
+"('Anti-Virus', 'Lab Top Case', 'Printer')","('Flash Drive',)",0.3,1.0
+"('Anti-Virus', 'Microsoft Office', 'Printer')","('Flash Drive',)",0.3,1.0
+"('Anti-Virus', 'Microsoft Office', 'Speakers')","('Flash Drive',)",0.3,1.0
+"('External Hard-Drive', 'Flash Drive')","('Anti-Virus',)",0.3,1.0
+"('External Hard-Drive', 'Flash Drive')","('Lab Top Case',)",0.3,1.0
+"('External Hard-Drive', 'Flash Drive')","('Anti-Virus', 'Lab Top Case')",0.3,1.0
+"('External Hard-Drive', 'Flash Drive', 'Lab Top Case')","('Anti-Virus',)",0.3,1.0
+"('External Hard-Drive', 'Lab Top')","('Anti-Virus',)",0.3,1.0
+"('External Hard-Drive', 'Lab Top Case', 'Speakers')","('Anti-Virus',)",0.3,1.0
+"('External Hard-Drive', 'Speakers')","('Anti-Virus',)",0.3,1.0
+"('External Hard-Drive', 'Speakers')","('Lab Top Case',)",0.3,1.0
+"('External Hard-Drive', 'Speakers')","('Anti-Virus', 'Lab Top Case')",0.3,1.0
+"('Flash Drive', 'Lab Top', 'Lab Top Case')","('Anti-Virus',)",0.3,1.0
+"('Flash Drive', 'Lab Top Case', 'Printer')","('Anti-Virus',)",0.3,1.0
+"('Flash Drive', 'Microsoft Office', 'Speakers')","('Anti-Virus',)",0.3,1.0
+"('Flash Drive', 'Speakers')","('Anti-Virus',)",0.3,1.0
+"('Flash Drive', 'Speakers')","('Microsoft Office',)",0.3,1.0
+"('Flash Drive', 'Speakers')","('Anti-Virus', 'Microsoft Office')",0.3,1.0
+"('Lab Top Case', 'Printer')","('Anti-Virus',)",0.3,1.0
+"('Lab Top Case', 'Printer')","('Flash Drive',)",0.3,1.0
+"('Lab Top Case', 'Printer')","('Anti-Virus', 'Flash Drive')",0.3,1.0
+"('Microsoft Office', 'Speakers')","('Anti-Virus',)",0.3,1.0
+"('Microsoft Office', 'Speakers')","('Flash Drive',)",0.3,1.0
+"('Microsoft Office', 'Speakers')","('Anti-Virus', 'Flash Drive')",0.3,1.0
+"('Anti-Virus', 'Digital Camera')","('Lab Top Case',)",0.25,1.0
+"('Anti-Virus', 'Digital Camera')","('Speakers',)",0.25,1.0
+"('Anti-Virus', 'Digital Camera')","('Lab Top Case', 'Speakers')",0.25,1.0
+"('Anti-Virus', 'Digital Camera', 'Lab Top Case')","('Speakers',)",0.25,1.0
+"('Anti-Virus', 'Digital Camera', 'Speakers')","('Lab Top Case',)",0.25,1.0
+"('Anti-Virus', 'External Hard-Drive', 'Flash Drive', 'Microsoft Office')","('Lab Top Case',)",0.25,1.0
+"('Anti-Virus', 'External Hard-Drive', 'Flash Drive', 'Printer')","('Lab Top Case',)",0.25,1.0
+"('Anti-Virus', 'External Hard-Drive', 'Lab Top Case', 'Microsoft Office')","('Flash Drive',)",0.25,1.0
+"('Anti-Virus', 'External Hard-Drive', 'Lab Top Case', 'Printer')","('Flash Drive',)",0.25,1.0
+"('Anti-Virus', 'External Hard-Drive', 'Microsoft Office')","('Flash Drive',)",0.25,1.0
+"('Anti-Virus', 'External Hard-Drive', 'Microsoft Office')","('Lab Top Case',)",0.25,1.0
+"('Anti-Virus', 'External Hard-Drive', 'Microsoft Office')","('Flash Drive', 'Lab Top Case')",0.25,1.0
+"('Anti-Virus', 'External Hard-Drive', 'Printer')","('Flash Drive',)",0.25,1.0
+"('Anti-Virus', 'External Hard-Drive', 'Printer')","('Lab Top Case',)",0.25,1.0
+"('Anti-Virus', 'External Hard-Drive', 'Printer')","('Flash Drive', 'Lab Top Case')",0.25,1.0
+"('Anti-Virus', 'Flash Drive', 'Lab Top Case', 'Speakers')","('Microsoft Office',)",0.25,1.0
+"('Anti-Virus', 'Flash Drive', 'Printer', 'Speakers')","('Microsoft Office',)",0.25,1.0
+"('Anti-Virus', 'Lab Top', 'Speakers')","('Lab Top Case',)",0.25,1.0
+"('Anti-Virus', 'Lab Top Case', 'Microsoft Office', 'Printer')","('Flash Drive',)",0.25,1.0
+"('Anti-Virus', 'Lab Top Case', 'Microsoft Office', 'Speakers')","('Flash Drive',)",0.25,1.0
+"('Anti-Virus', 'Microsoft Office', 'Printer', 'Speakers')","('Flash Drive',)",0.25,1.0
+"('Anti-Virus', 'Printer', 'Speakers')","('Flash Drive',)",0.25,1.0
+"('Anti-Virus', 'Printer', 'Speakers')","('Microsoft Office',)",0.25,1.0
+"('Anti-Virus', 'Printer', 'Speakers')","('Flash Drive', 'Microsoft Office')",0.25,1.0
+"('Desk Top', 'Flash Drive')","('Microsoft Office',)",0.25,1.0
+"('Desk Top', 'Flash Drive')","('Printer',)",0.25,1.0
+"('Desk Top', 'Flash Drive')","('Microsoft Office', 'Printer')",0.25,1.0
+"('Desk Top', 'Flash Drive', 'Microsoft Office')","('Printer',)",0.25,1.0
+"('Desk Top', 'Flash Drive', 'Printer')","('Microsoft Office',)",0.25,1.0
+"('Desk Top', 'Microsoft Office')","('Flash Drive',)",0.25,1.0
+"('Desk Top', 'Microsoft Office')","('Printer',)",0.25,1.0
+"('Desk Top', 'Microsoft Office')","('Flash Drive', 'Printer')",0.25,1.0
+"('Desk Top', 'Microsoft Office', 'Printer')","('Flash Drive',)",0.25,1.0
+"('Desk Top', 'Printer')","('Flash Drive',)",0.25,1.0
+"('Desk Top', 'Printer')","('Microsoft Office',)",0.25,1.0
+"('Desk Top', 'Printer')","('Flash Drive', 'Microsoft Office')",0.25,1.0
+"('Digital Camera', 'Lab Top')","('Lab Top Case',)",0.25,1.0
+"('External Hard-Drive', 'Flash Drive', 'Lab Top Case', 'Microsoft Office')","('Anti-Virus',)",0.25,1.0
+"('External Hard-Drive', 'Flash Drive', 'Lab Top Case', 'Printer')","('Anti-Virus',)",0.25,1.0
+"('External Hard-Drive', 'Flash Drive', 'Microsoft Office')","('Anti-Virus',)",0.25,1.0
+"('External Hard-Drive', 'Flash Drive', 'Microsoft Office')","('Lab Top Case',)",0.25,1.0
+"('External Hard-Drive', 'Flash Drive', 'Microsoft Office')","('Anti-Virus', 'Lab Top Case')",0.25,1.0
+"('External Hard-Drive', 'Flash Drive', 'Printer')","('Anti-Virus',)",0.25,1.0
+"('External Hard-Drive', 'Flash Drive', 'Printer')","('Lab Top Case',)",0.25,1.0
+"('External Hard-Drive', 'Flash Drive', 'Printer')","('Anti-Virus', 'Lab Top Case')",0.25,1.0
+"('External Hard-Drive', 'Lab Top', 'Lab Top Case')","('Anti-Virus',)",0.25,1.0
+"('External Hard-Drive', 'Lab Top Case', 'Microsoft Office')","('Anti-Virus',)",0.25,1.0
+"('External Hard-Drive', 'Lab Top Case', 'Microsoft Office')","('Flash Drive',)",0.25,1.0
+"('External Hard-Drive', 'Lab Top Case', 'Microsoft Office')","('Anti-Virus', 'Flash Drive')",0.25,1.0
+"('External Hard-Drive', 'Lab Top Case', 'Printer')","('Anti-Virus',)",0.25,1.0
+"('External Hard-Drive', 'Lab Top Case', 'Printer')","('Flash Drive',)",0.25,1.0
+"('External Hard-Drive', 'Lab Top Case', 'Printer')","('Anti-Virus', 'Flash Drive')",0.25,1.0
+"('External Hard-Drive', 'Microsoft Office')","('Anti-Virus',)",0.25,1.0
+"('External Hard-Drive', 'Microsoft Office')","('Flash Drive',)",0.25,1.0
+"('External Hard-Drive', 'Microsoft Office')","('Lab Top Case',)",0.25,1.0
+"('External Hard-Drive', 'Microsoft Office')","('Anti-Virus', 'Flash Drive')",0.25,1.0
+"('External Hard-Drive', 'Microsoft Office')","('Anti-Virus', 'Lab Top Case')",0.25,1.0
+"('External Hard-Drive', 'Microsoft Office')","('Flash Drive', 'Lab Top Case')",0.25,1.0
+"('External Hard-Drive', 'Microsoft Office')","('Anti-Virus', 'Flash Drive', 'Lab Top Case')",0.25,1.0
+"('External Hard-Drive', 'Printer')","('Anti-Virus',)",0.25,1.0
+"('External Hard-Drive', 'Printer')","('Flash Drive',)",0.25,1.0
+"('External Hard-Drive', 'Printer')","('Lab Top Case',)",0.25,1.0
+"('External Hard-Drive', 'Printer')","('Anti-Virus', 'Flash Drive')",0.25,1.0
+"('External Hard-Drive', 'Printer')","('Anti-Virus', 'Lab Top Case')",0.25,1.0
+"('External Hard-Drive', 'Printer')","('Flash Drive', 'Lab Top Case')",0.25,1.0
+"('External Hard-Drive', 'Printer')","('Anti-Virus', 'Flash Drive', 'Lab Top Case')",0.25,1.0
+"('Flash Drive', 'Lab Top Case', 'Microsoft Office', 'Printer')","('Anti-Virus',)",0.25,1.0
+"('Flash Drive', 'Lab Top Case', 'Microsoft Office', 'Speakers')","('Anti-Virus',)",0.25,1.0
+"('Flash Drive', 'Lab Top Case', 'Speakers')","('Anti-Virus',)",0.25,1.0
+"('Flash Drive', 'Lab Top Case', 'Speakers')","('Microsoft Office',)",0.25,1.0
+"('Flash Drive', 'Lab Top Case', 'Speakers')","('Anti-Virus', 'Microsoft Office')",0.25,1.0
+"('Flash Drive', 'Microsoft Office', 'Printer', 'Speakers')","('Anti-Virus',)",0.25,1.0
+"('Flash Drive', 'Printer', 'Speakers')","('Anti-Virus',)",0.25,1.0
+"('Flash Drive', 'Printer', 'Speakers')","('Microsoft Office',)",0.25,1.0
+"('Flash Drive', 'Printer', 'Speakers')","('Anti-Virus', 'Microsoft Office')",0.25,1.0
+"('Lab Top', 'Lab Top Case', 'Speakers')","('Anti-Virus',)",0.25,1.0
+"('Lab Top', 'Microsoft Office')","('Flash Drive',)",0.25,1.0
+"('Lab Top', 'Printer')","('Flash Drive',)",0.25,1.0
+"('Lab Top', 'Speakers')","('Anti-Virus',)",0.25,1.0
+"('Lab Top', 'Speakers')","('Lab Top Case',)",0.25,1.0
+"('Lab Top', 'Speakers')","('Anti-Virus', 'Lab Top Case')",0.25,1.0
+"('Lab Top Case', 'Microsoft Office', 'Printer')","('Anti-Virus',)",0.25,1.0
+"('Lab Top Case', 'Microsoft Office', 'Printer')","('Flash Drive',)",0.25,1.0
+"('Lab Top Case', 'Microsoft Office', 'Printer')","('Anti-Virus', 'Flash Drive')",0.25,1.0
+"('Lab Top Case', 'Microsoft Office', 'Speakers')","('Anti-Virus',)",0.25,1.0
+"('Lab Top Case', 'Microsoft Office', 'Speakers')","('Flash Drive',)",0.25,1.0
+"('Lab Top Case', 'Microsoft Office', 'Speakers')","('Anti-Virus', 'Flash Drive')",0.25,1.0
+"('Microsoft Office', 'Printer', 'Speakers')","('Anti-Virus',)",0.25,1.0
+"('Microsoft Office', 'Printer', 'Speakers')","('Flash Drive',)",0.25,1.0
+"('Microsoft Office', 'Printer', 'Speakers')","('Anti-Virus', 'Flash Drive')",0.25,1.0
+"('Printer', 'Speakers')","('Anti-Virus',)",0.25,1.0
+"('Printer', 'Speakers')","('Flash Drive',)",0.25,1.0
+"('Printer', 'Speakers')","('Microsoft Office',)",0.25,1.0
+"('Printer', 'Speakers')","('Anti-Virus', 'Flash Drive')",0.25,1.0
+"('Printer', 'Speakers')","('Anti-Virus', 'Microsoft Office')",0.25,1.0
+"('Printer', 'Speakers')","('Flash Drive', 'Microsoft Office')",0.25,1.0
+"('Printer', 'Speakers')","('Anti-Virus', 'Flash Drive', 'Microsoft Office')",0.25,1.0
+"('Anti-Virus', 'Flash Drive')","('Lab Top Case',)",0.45,0.9
+"('Anti-Virus', 'Lab Top')","('Lab Top Case',)",0.45,0.9
+"('Flash Drive', 'Printer')","('Microsoft Office',)",0.45,0.9
+"('Lab Top', 'Lab Top Case')","('Anti-Virus',)",0.45,0.9
+"('Printer',)","('Microsoft Office',)",0.45,0.9
+"('Printer',)","('Flash Drive', 'Microsoft Office')",0.45,0.9
+"('Anti-Virus', 'External Hard-Drive')","('Lab Top Case',)",0.4,0.888888888888889
+"('Anti-Virus', 'Speakers')","('Lab Top Case',)",0.4,0.888888888888889
+"('External Hard-Drive',)","('Lab Top Case',)",0.4,0.888888888888889
+"('External Hard-Drive',)","('Anti-Virus', 'Lab Top Case')",0.4,0.888888888888889
+"('Lab Top Case', 'Speakers')","('Anti-Virus',)",0.4,0.888888888888889
+"('Anti-Virus', 'Flash Drive', 'Microsoft Office')","('Lab Top Case',)",0.35,0.8749999999999999
+"('Anti-Virus', 'Microsoft Office')","('Lab Top Case',)",0.35,0.8749999999999999
+"('Anti-Virus', 'Microsoft Office')","('Flash Drive', 'Lab Top Case')",0.35,0.8749999999999999
+"('Anti-Virus',)","('Lab Top Case',)",0.6,0.8571428571428572
+"('Lab Top Case',)","('Anti-Virus',)",0.6,0.8571428571428572
+"('Anti-Virus', 'Flash Drive', 'Printer')","('Lab Top Case',)",0.3,0.8571428571428572
+"('Anti-Virus', 'Flash Drive', 'Printer')","('Microsoft Office',)",0.3,0.8571428571428572
+"('Anti-Virus', 'Printer')","('Lab Top Case',)",0.3,0.8571428571428572
+"('Anti-Virus', 'Printer')","('Microsoft Office',)",0.3,0.8571428571428572
+"('Anti-Virus', 'Printer')","('Flash Drive', 'Lab Top Case')",0.3,0.8571428571428572
+"('Anti-Virus', 'Printer')","('Flash Drive', 'Microsoft Office')",0.3,0.8571428571428572
+"('Digital Camera', 'Lab Top Case')","('Speakers',)",0.3,0.8571428571428572
+"('Digital Camera', 'Speakers')","('Lab Top Case',)",0.3,0.8571428571428572
+"('Flash Drive', 'Lab Top')","('Anti-Virus',)",0.3,0.8571428571428572
+"('Flash Drive', 'Lab Top')","('Lab Top Case',)",0.3,0.8571428571428572
+"('Flash Drive', 'Lab Top')","('Anti-Virus', 'Lab Top Case')",0.3,0.8571428571428572
+"('Flash Drive',)","('Microsoft Office',)",0.55,0.8461538461538461
+"('Lab Top',)","('Anti-Virus',)",0.5,0.8333333333333334
+"('Lab Top',)","('Lab Top Case',)",0.5,0.8333333333333334
+"('Anti-Virus', 'External Hard-Drive', 'Flash Drive')","('Microsoft Office',)",0.25,0.8333333333333334
+"('Anti-Virus', 'External Hard-Drive', 'Flash Drive')","('Printer',)",0.25,0.8333333333333334
+"('Anti-Virus', 'External Hard-Drive', 'Flash Drive')","('Lab Top Case', 'Microsoft Office')",0.25,0.8333333333333334
+"('Anti-Virus', 'External Hard-Drive', 'Flash Drive')","('Lab Top Case', 'Printer')",0.25,0.8333333333333334
+"('Anti-Virus', 'External Hard-Drive', 'Flash Drive', 'Lab Top Case')","('Microsoft Office',)",0.25,0.8333333333333334
+"('Anti-Virus', 'External Hard-Drive', 'Flash Drive', 'Lab Top Case')","('Printer',)",0.25,0.8333333333333334
+"('Anti-Virus', 'External Hard-Drive', 'Lab Top')","('Lab Top Case',)",0.25,0.8333333333333334
+"('Anti-Virus', 'Flash Drive', 'Lab Top Case', 'Printer')","('External Hard-Drive',)",0.25,0.8333333333333334
+"('Anti-Virus', 'Flash Drive', 'Lab Top Case', 'Printer')","('Microsoft Office',)",0.25,0.8333333333333334
+"('Anti-Virus', 'Flash Drive', 'Microsoft Office', 'Printer')","('Lab Top Case',)",0.25,0.8333333333333334
+"('Anti-Virus', 'Flash Drive', 'Microsoft Office', 'Printer')","('Speakers',)",0.25,0.8333333333333334
+"('Anti-Virus', 'Flash Drive', 'Microsoft Office', 'Speakers')","('Lab Top Case',)",0.25,0.8333333333333334
+"('Anti-Virus', 'Flash Drive', 'Microsoft Office', 'Speakers')","('Printer',)",0.25,0.8333333333333334
+"('Anti-Virus', 'Flash Drive', 'Speakers')","('Lab Top Case',)",0.25,0.8333333333333334
+"('Anti-Virus', 'Flash Drive', 'Speakers')","('Printer',)",0.25,0.8333333333333334
+"('Anti-Virus', 'Flash Drive', 'Speakers')","('Lab Top Case', 'Microsoft Office')",0.25,0.8333333333333334
+"('Anti-Virus', 'Flash Drive', 'Speakers')","('Microsoft Office', 'Printer')",0.25,0.8333333333333334
+"('Anti-Virus', 'Lab Top Case', 'Printer')","('External Hard-Drive',)",0.25,0.8333333333333334
+"('Anti-Virus', 'Lab Top Case', 'Printer')","('Microsoft Office',)",0.25,0.8333333333333334
+"('Anti-Virus', 'Lab Top Case', 'Printer')","('External Hard-Drive', 'Flash Drive')",0.25,0.8333333333333334
+"('Anti-Virus', 'Lab Top Case', 'Printer')","('Flash Drive', 'Microsoft Office')",0.25,0.8333333333333334
+"('Anti-Virus', 'Microsoft Office', 'Printer')","('Lab Top Case',)",0.25,0.8333333333333334
+"('Anti-Virus', 'Microsoft Office', 'Printer')","('Speakers',)",0.25,0.8333333333333334
+"('Anti-Virus', 'Microsoft Office', 'Printer')","('Flash Drive', 'Lab Top Case')",0.25,0.8333333333333334
+"('Anti-Virus', 'Microsoft Office', 'Printer')","('Flash Drive', 'Speakers')",0.25,0.8333333333333334
+"('Anti-Virus', 'Microsoft Office', 'Speakers')","('Lab Top Case',)",0.25,0.8333333333333334
+"('Anti-Virus', 'Microsoft Office', 'Speakers')","('Printer',)",0.25,0.8333333333333334
+"('Anti-Virus', 'Microsoft Office', 'Speakers')","('Flash Drive', 'Lab Top Case')",0.25,0.8333333333333334
+"('Anti-Virus', 'Microsoft Office', 'Speakers')","('Flash Drive', 'Printer')",0.25,0.8333333333333334
+"('Desk Top',)","('Flash Drive',)",0.25,0.8333333333333334
+"('Desk Top',)","('Microsoft Office',)",0.25,0.8333333333333334
+"('Desk Top',)","('Printer',)",0.25,0.8333333333333334
+"('Desk Top',)","('Flash Drive', 'Microsoft Office')",0.25,0.8333333333333334
+"('Desk Top',)","('Flash Drive', 'Printer')",0.25,0.8333333333333334
+"('Desk Top',)","('Microsoft Office', 'Printer')",0.25,0.8333333333333334
+"('Desk Top',)","('Flash Drive', 'Microsoft Office', 'Printer')",0.25,0.8333333333333334
+"('Digital Camera', 'Lab Top Case', 'Speakers')","('Anti-Virus',)",0.25,0.8333333333333334
+"('External Hard-Drive', 'Flash Drive')","('Microsoft Office',)",0.25,0.8333333333333334
+"('External Hard-Drive', 'Flash Drive')","('Printer',)",0.25,0.8333333333333334
+"('External Hard-Drive', 'Flash Drive')","('Anti-Virus', 'Microsoft Office')",0.25,0.8333333333333334
+"('External Hard-Drive', 'Flash Drive')","('Anti-Virus', 'Printer')",0.25,0.8333333333333334
+"('External Hard-Drive', 'Flash Drive')","('Lab Top Case', 'Microsoft Office')",0.25,0.8333333333333334
+"('External Hard-Drive', 'Flash Drive')","('Lab Top Case', 'Printer')",0.25,0.8333333333333334
+"('External Hard-Drive', 'Flash Drive')","('Anti-Virus', 'Lab Top Case', 'Microsoft Office')",0.25,0.8333333333333334
+"('External Hard-Drive', 'Flash Drive')","('Anti-Virus', 'Lab Top Case', 'Printer')",0.25,0.8333333333333334
+"('External Hard-Drive', 'Flash Drive', 'Lab Top Case')","('Microsoft Office',)",0.25,0.8333333333333334
+"('External Hard-Drive', 'Flash Drive', 'Lab Top Case')","('Printer',)",0.25,0.8333333333333334
+"('External Hard-Drive', 'Flash Drive', 'Lab Top Case')","('Anti-Virus', 'Microsoft Office')",0.25,0.8333333333333334
+"('External Hard-Drive', 'Flash Drive', 'Lab Top Case')","('Anti-Virus', 'Printer')",0.25,0.8333333333333334
+"('External Hard-Drive', 'Lab Top')","('Lab Top Case',)",0.25,0.8333333333333334
+"('External Hard-Drive', 'Lab Top')","('Anti-Virus', 'Lab Top Case')",0.25,0.8333333333333334
+"('Flash Drive', 'Lab Top Case', 'Printer')","('External Hard-Drive',)",0.25,0.8333333333333334
+"('Flash Drive', 'Lab Top Case', 'Printer')","('Microsoft Office',)",0.25,0.8333333333333334
+"('Flash Drive', 'Lab Top Case', 'Printer')","('Anti-Virus', 'External Hard-Drive')",0.25,0.8333333333333334
+"('Flash Drive', 'Lab Top Case', 'Printer')","('Anti-Virus', 'Microsoft Office')",0.25,0.8333333333333334
+"('Flash Drive', 'Microsoft Office', 'Speakers')","('Lab Top Case',)",0.25,0.8333333333333334
+"('Flash Drive', 'Microsoft Office', 'Speakers')","('Printer',)",0.25,0.8333333333333334
+"('Flash Drive', 'Microsoft Office', 'Speakers')","('Anti-Virus', 'Lab Top Case')",0.25,0.8333333333333334
+"('Flash Drive', 'Microsoft Office', 'Speakers')","('Anti-Virus', 'Printer')",0.25,0.8333333333333334
+"('Flash Drive', 'Speakers')","('Lab Top Case',)",0.25,0.8333333333333334
+"('Flash Drive', 'Speakers')","('Printer',)",0.25,0.8333333333333334
+"('Flash Drive', 'Speakers')","('Anti-Virus', 'Lab Top Case')",0.25,0.8333333333333334
+"('Flash Drive', 'Speakers')","('Anti-Virus', 'Printer')",0.25,0.8333333333333334
+"('Flash Drive', 'Speakers')","('Lab Top Case', 'Microsoft Office')",0.25,0.8333333333333334
+"('Flash Drive', 'Speakers')","('Microsoft Office', 'Printer')",0.25,0.8333333333333334
+"('Flash Drive', 'Speakers')","('Anti-Virus', 'Lab Top Case', 'Microsoft Office')",0.25,0.8333333333333334
+"('Flash Drive', 'Speakers')","('Anti-Virus', 'Microsoft Office', 'Printer')",0.25,0.8333333333333334
+"('Lab Top Case', 'Printer')","('External Hard-Drive',)",0.25,0.8333333333333334
+"('Lab Top Case', 'Printer')","('Microsoft Office',)",0.25,0.8333333333333334
+"('Lab Top Case', 'Printer')","('Anti-Virus', 'External Hard-Drive')",0.25,0.8333333333333334
+"('Lab Top Case', 'Printer')","('Anti-Virus', 'Microsoft Office')",0.25,0.8333333333333334
+"('Lab Top Case', 'Printer')","('External Hard-Drive', 'Flash Drive')",0.25,0.8333333333333334
+"('Lab Top Case', 'Printer')","('Flash Drive', 'Microsoft Office')",0.25,0.8333333333333334
+"('Lab Top Case', 'Printer')","('Anti-Virus', 'External Hard-Drive', 'Flash Drive')",0.25,0.8333333333333334
+"('Lab Top Case', 'Printer')","('Anti-Virus', 'Flash Drive', 'Microsoft Office')",0.25,0.8333333333333334
+"('Microsoft Office', 'Speakers')","('Lab Top Case',)",0.25,0.8333333333333334
+"('Microsoft Office', 'Speakers')","('Printer',)",0.25,0.8333333333333334
+"('Microsoft Office', 'Speakers')","('Anti-Virus', 'Lab Top Case')",0.25,0.8333333333333334
+"('Microsoft Office', 'Speakers')","('Anti-Virus', 'Printer')",0.25,0.8333333333333334
+"('Microsoft Office', 'Speakers')","('Flash Drive', 'Lab Top Case')",0.25,0.8333333333333334
+"('Microsoft Office', 'Speakers')","('Flash Drive', 'Printer')",0.25,0.8333333333333334
+"('Microsoft Office', 'Speakers')","('Anti-Virus', 'Flash Drive', 'Lab Top Case')",0.25,0.8333333333333334
+"('Microsoft Office', 'Speakers')","('Anti-Virus', 'Flash Drive', 'Printer')",0.25,0.8333333333333334
+"('Flash Drive', 'Microsoft Office')","('Printer',)",0.45,0.8181818181818181
+"('Microsoft Office',)","('Printer',)",0.45,0.8181818181818181
+"('Microsoft Office',)","('Flash Drive', 'Printer')",0.45,0.8181818181818181
+"('Speakers',)","('Anti-Virus',)",0.45,0.8181818181818181
+"('Speakers',)","('Lab Top Case',)",0.45,0.8181818181818181
+"('Anti-Virus', 'Flash Drive')","('Microsoft Office',)",0.4,0.8
+"('Anti-Virus', 'Flash Drive', 'Lab Top Case')","('Microsoft Office',)",0.35,0.7777777777777777
+"('Digital Camera',)","('Lab Top Case',)",0.35,0.7777777777777777
+"('Digital Camera',)","('Speakers',)",0.35,0.7777777777777777
+"('Flash Drive', 'Lab Top Case')","('Microsoft Office',)",0.35,0.7777777777777777
+"('Flash Drive', 'Lab Top Case')","('Anti-Virus', 'Microsoft Office')",0.35,0.7777777777777777
+"('Flash Drive',)","('Anti-Virus',)",0.5,0.7692307692307692
+"('Flash Drive',)","('Printer',)",0.5,0.7692307692307692
+"('Anti-Virus', 'Lab Top Case')","('Flash Drive',)",0.45,0.75
+"('Anti-Virus', 'Lab Top Case')","('Lab Top',)",0.45,0.75
+"('Lab Top',)","('Anti-Virus', 'Lab Top Case')",0.45,0.75
+"('Anti-Virus', 'External Hard-Drive', 'Lab Top Case')","('Flash Drive',)",0.3,0.7499999999999999
+"('Anti-Virus', 'External Hard-Drive', 'Lab Top Case')","('Speakers',)",0.3,0.7499999999999999
+"('Anti-Virus', 'Flash Drive', 'Microsoft Office')","('Printer',)",0.3,0.7499999999999999
+"('Anti-Virus', 'Flash Drive', 'Microsoft Office')","('Speakers',)",0.3,0.7499999999999999
+"('Anti-Virus', 'Lab Top Case', 'Speakers')","('External Hard-Drive',)",0.3,0.7499999999999999
+"('Anti-Virus', 'Microsoft Office')","('Printer',)",0.3,0.7499999999999999
+"('Anti-Virus', 'Microsoft Office')","('Speakers',)",0.3,0.7499999999999999
+"('Anti-Virus', 'Microsoft Office')","('Flash Drive', 'Printer')",0.3,0.7499999999999999
+"('Anti-Virus', 'Microsoft Office')","('Flash Drive', 'Speakers')",0.3,0.7499999999999999
+"('External Hard-Drive', 'Lab Top Case')","('Flash Drive',)",0.3,0.7499999999999999
+"('External Hard-Drive', 'Lab Top Case')","('Speakers',)",0.3,0.7499999999999999
+"('External Hard-Drive', 'Lab Top Case')","('Anti-Virus', 'Flash Drive')",0.3,0.7499999999999999
+"('External Hard-Drive', 'Lab Top Case')","('Anti-Virus', 'Speakers')",0.3,0.7499999999999999
+"('Flash Drive', 'Microsoft Office')","('Anti-Virus',)",0.4,0.7272727272727273
+"('Microsoft Office',)","('Anti-Virus',)",0.4,0.7272727272727273
+"('Microsoft Office',)","('Anti-Virus', 'Flash Drive')",0.4,0.7272727272727273
+"('Speakers',)","('Anti-Virus', 'Lab Top Case')",0.4,0.7272727272727273
+"('Anti-Virus',)","('Flash Drive',)",0.5,0.7142857142857143
+"('Anti-Virus',)","('Lab Top',)",0.5,0.7142857142857143
+"('Lab Top Case',)","('Lab Top',)",0.5,0.7142857142857143
+"('Anti-Virus', 'Flash Drive', 'Lab Top Case', 'Microsoft Office')","('External Hard-Drive',)",0.25,0.7142857142857143
+"('Anti-Virus', 'Flash Drive', 'Lab Top Case', 'Microsoft Office')","('Printer',)",0.25,0.7142857142857143
+"('Anti-Virus', 'Flash Drive', 'Lab Top Case', 'Microsoft Office')","('Speakers',)",0.25,0.7142857142857143
+"('Anti-Virus', 'Flash Drive', 'Printer')","('External Hard-Drive',)",0.25,0.7142857142857143
+"('Anti-Virus', 'Flash Drive', 'Printer')","('Speakers',)",0.25,0.7142857142857143
+"('Anti-Virus', 'Flash Drive', 'Printer')","('External Hard-Drive', 'Lab Top Case')",0.25,0.7142857142857143
+"('Anti-Virus', 'Flash Drive', 'Printer')","('Lab Top Case', 'Microsoft Office')",0.25,0.7142857142857143
+"('Anti-Virus', 'Flash Drive', 'Printer')","('Microsoft Office', 'Speakers')",0.25,0.7142857142857143
+"('Anti-Virus', 'Lab Top Case', 'Microsoft Office')","('External Hard-Drive',)",0.25,0.7142857142857143
+"('Anti-Virus', 'Lab Top Case', 'Microsoft Office')","('Printer',)",0.25,0.7142857142857143
+"('Anti-Virus', 'Lab Top Case', 'Microsoft Office')","('Speakers',)",0.25,0.7142857142857143
+"('Anti-Virus', 'Lab Top Case', 'Microsoft Office')","('External Hard-Drive', 'Flash Drive')",0.25,0.7142857142857143
+"('Anti-Virus', 'Lab Top Case', 'Microsoft Office')","('Flash Drive', 'Printer')",0.25,0.7142857142857143
+"('Anti-Virus', 'Lab Top Case', 'Microsoft Office')","('Flash Drive', 'Speakers')",0.25,0.7142857142857143
+"('Anti-Virus', 'Printer')","('External Hard-Drive',)",0.25,0.7142857142857143
+"('Anti-Virus', 'Printer')","('Speakers',)",0.25,0.7142857142857143
+"('Anti-Virus', 'Printer')","('External Hard-Drive', 'Flash Drive')",0.25,0.7142857142857143
+"('Anti-Virus', 'Printer')","('External Hard-Drive', 'Lab Top Case')",0.25,0.7142857142857143
+"('Anti-Virus', 'Printer')","('Flash Drive', 'Speakers')",0.25,0.7142857142857143
+"('Anti-Virus', 'Printer')","('Lab Top Case', 'Microsoft Office')",0.25,0.7142857142857143
+"('Anti-Virus', 'Printer')","('Microsoft Office', 'Speakers')",0.25,0.7142857142857143
+"('Anti-Virus', 'Printer')","('External Hard-Drive', 'Flash Drive', 'Lab Top Case')",0.25,0.7142857142857143
+"('Anti-Virus', 'Printer')","('Flash Drive', 'Lab Top Case', 'Microsoft Office')",0.25,0.7142857142857143
+"('Anti-Virus', 'Printer')","('Flash Drive', 'Microsoft Office', 'Speakers')",0.25,0.7142857142857143
+"('Digital Camera', 'Lab Top Case')","('Anti-Virus',)",0.25,0.7142857142857143
+"('Digital Camera', 'Lab Top Case')","('Lab Top',)",0.25,0.7142857142857143
+"('Digital Camera', 'Lab Top Case')","('Anti-Virus', 'Speakers')",0.25,0.7142857142857143
+"('Digital Camera', 'Speakers')","('Anti-Virus',)",0.25,0.7142857142857143
+"('Digital Camera', 'Speakers')","('Anti-Virus', 'Lab Top Case')",0.25,0.7142857142857143
+"('Flash Drive', 'Lab Top')","('Microsoft Office',)",0.25,0.7142857142857143
+"('Flash Drive', 'Lab Top')","('Printer',)",0.25,0.7142857142857143
+"('Flash Drive', 'Lab Top Case', 'Microsoft Office')","('External Hard-Drive',)",0.25,0.7142857142857143
+"('Flash Drive', 'Lab Top Case', 'Microsoft Office')","('Printer',)",0.25,0.7142857142857143
+"('Flash Drive', 'Lab Top Case', 'Microsoft Office')","('Speakers',)",0.25,0.7142857142857143
+"('Flash Drive', 'Lab Top Case', 'Microsoft Office')","('Anti-Virus', 'External Hard-Drive')",0.25,0.7142857142857143
+"('Flash Drive', 'Lab Top Case', 'Microsoft Office')","('Anti-Virus', 'Printer')",0.25,0.7142857142857143
+"('Flash Drive', 'Lab Top Case', 'Microsoft Office')","('Anti-Virus', 'Speakers')",0.25,0.7142857142857143
+"('Lab Top Case', 'Microsoft Office')","('External Hard-Drive',)",0.25,0.7142857142857143
+"('Lab Top Case', 'Microsoft Office')","('Printer',)",0.25,0.7142857142857143
+"('Lab Top Case', 'Microsoft Office')","('Speakers',)",0.25,0.7142857142857143
+"('Lab Top Case', 'Microsoft Office')","('Anti-Virus', 'External Hard-Drive')",0.25,0.7142857142857143
+"('Lab Top Case', 'Microsoft Office')","('Anti-Virus', 'Printer')",0.25,0.7142857142857143
+"('Lab Top Case', 'Microsoft Office')","('Anti-Virus', 'Speakers')",0.25,0.7142857142857143
+"('Lab Top Case', 'Microsoft Office')","('External Hard-Drive', 'Flash Drive')",0.25,0.7142857142857143
+"('Lab Top Case', 'Microsoft Office')","('Flash Drive', 'Printer')",0.25,0.7142857142857143
+"('Lab Top Case', 'Microsoft Office')","('Flash Drive', 'Speakers')",0.25,0.7142857142857143
+"('Lab Top Case', 'Microsoft Office')","('Anti-Virus', 'External Hard-Drive', 'Flash Drive')",0.25,0.7142857142857143
+"('Lab Top Case', 'Microsoft Office')","('Anti-Virus', 'Flash Drive', 'Printer')",0.25,0.7142857142857143
+"('Lab Top Case', 'Microsoft Office')","('Anti-Virus', 'Flash Drive', 'Speakers')",0.25,0.7142857142857143
+"('Anti-Virus', 'Flash Drive')","('Printer',)",0.35,0.7
+"('Anti-Virus', 'Flash Drive')","('Lab Top Case', 'Microsoft Office')",0.35,0.7
+"('Flash Drive', 'Printer')","('Anti-Virus',)",0.35,0.7
+"('Printer',)","('Anti-Virus',)",0.35,0.7
+"('Printer',)","('Anti-Virus', 'Flash Drive')",0.35,0.7
+"('Flash Drive',)","('Lab Top Case',)",0.45,0.6923076923076923
+"('Flash Drive',)","('Anti-Virus', 'Lab Top Case')",0.45,0.6923076923076923
+"('Flash Drive',)","('Microsoft Office', 'Printer')",0.45,0.6923076923076923
+"('Anti-Virus', 'Lab Top Case')","('External Hard-Drive',)",0.4,0.6666666666666667
+"('Anti-Virus', 'Lab Top Case')","('Speakers',)",0.4,0.6666666666666667
+"('Anti-Virus', 'External Hard-Drive')","('Flash Drive',)",0.3,0.6666666666666666
+"('Anti-Virus', 'External Hard-Drive')","('Lab Top',)",0.3,0.6666666666666666
+"('Anti-Virus', 'External Hard-Drive')","('Speakers',)",0.3,0.6666666666666666
+"('Anti-Virus', 'External Hard-Drive')","('Flash Drive', 'Lab Top Case')",0.3,0.6666666666666666
+"('Anti-Virus', 'External Hard-Drive')","('Lab Top Case', 'Speakers')",0.3,0.6666666666666666
+"('Anti-Virus', 'Flash Drive', 'Lab Top Case')","('External Hard-Drive',)",0.3,0.6666666666666666
+"('Anti-Virus', 'Flash Drive', 'Lab Top Case')","('Lab Top',)",0.3,0.6666666666666666
+"('Anti-Virus', 'Flash Drive', 'Lab Top Case')","('Printer',)",0.3,0.6666666666666666
+"('Anti-Virus', 'Lab Top', 'Lab Top Case')","('Flash Drive',)",0.3,0.6666666666666666
+"('Anti-Virus', 'Speakers')","('External Hard-Drive',)",0.3,0.6666666666666666
+"('Anti-Virus', 'Speakers')","('Flash Drive',)",0.3,0.6666666666666666
+"('Anti-Virus', 'Speakers')","('Microsoft Office',)",0.3,0.6666666666666666
+"('Anti-Virus', 'Speakers')","('External Hard-Drive', 'Lab Top Case')",0.3,0.6666666666666666
+"('Anti-Virus', 'Speakers')","('Flash Drive', 'Microsoft Office')",0.3,0.6666666666666666
+"('Digital Camera',)","('Lab Top Case', 'Speakers')",0.3,0.6666666666666666
+"('External Hard-Drive',)","('Flash Drive',)",0.3,0.6666666666666666
+"('External Hard-Drive',)","('Lab Top',)",0.3,0.6666666666666666
+"('External Hard-Drive',)","('Speakers',)",0.3,0.6666666666666666
+"('External Hard-Drive',)","('Anti-Virus', 'Flash Drive')",0.3,0.6666666666666666
+"('External Hard-Drive',)","('Anti-Virus', 'Lab Top')",0.3,0.6666666666666666
+"('External Hard-Drive',)","('Anti-Virus', 'Speakers')",0.3,0.6666666666666666
+"('External Hard-Drive',)","('Flash Drive', 'Lab Top Case')",0.3,0.6666666666666666
+"('External Hard-Drive',)","('Lab Top Case', 'Speakers')",0.3,0.6666666666666666
+"('External Hard-Drive',)","('Anti-Virus', 'Flash Drive', 'Lab Top Case')",0.3,0.6666666666666666
+"('External Hard-Drive',)","('Anti-Virus', 'Lab Top Case', 'Speakers')",0.3,0.6666666666666666
+"('Flash Drive', 'Lab Top Case')","('External Hard-Drive',)",0.3,0.6666666666666666
+"('Flash Drive', 'Lab Top Case')","('Lab Top',)",0.3,0.6666666666666666
+"('Flash Drive', 'Lab Top Case')","('Printer',)",0.3,0.6666666666666666
+"('Flash Drive', 'Lab Top Case')","('Anti-Virus', 'External Hard-Drive')",0.3,0.6666666666666666
+"('Flash Drive', 'Lab Top Case')","('Anti-Virus', 'Lab Top')",0.3,0.6666666666666666
+"('Flash Drive', 'Lab Top Case')","('Anti-Virus', 'Printer')",0.3,0.6666666666666666
+"('Flash Drive', 'Microsoft Office', 'Printer')","('Anti-Virus',)",0.3,0.6666666666666666
+"('Lab Top Case', 'Speakers')","('Digital Camera',)",0.3,0.6666666666666666
+"('Lab Top Case', 'Speakers')","('External Hard-Drive',)",0.3,0.6666666666666666
+"('Lab Top Case', 'Speakers')","('Anti-Virus', 'External Hard-Drive')",0.3,0.6666666666666666
+"('Microsoft Office', 'Printer')","('Anti-Virus',)",0.3,0.6666666666666666
+"('Microsoft Office', 'Printer')","('Anti-Virus', 'Flash Drive')",0.3,0.6666666666666666
+"('Anti-Virus',)","('External Hard-Drive',)",0.45,0.6428571428571429
+"('Anti-Virus',)","('Speakers',)",0.45,0.6428571428571429
+"('Anti-Virus',)","('Flash Drive', 'Lab Top Case')",0.45,0.6428571428571429
+"('Anti-Virus',)","('Lab Top', 'Lab Top Case')",0.45,0.6428571428571429
+"('Lab Top Case',)","('Flash Drive',)",0.45,0.6428571428571429
+"('Lab Top Case',)","('Speakers',)",0.45,0.6428571428571429
+"('Lab Top Case',)","('Anti-Virus', 'Flash Drive')",0.45,0.6428571428571429
+"('Lab Top Case',)","('Anti-Virus', 'Lab Top')",0.45,0.6428571428571429
+"('Flash Drive', 'Microsoft Office')","('Lab Top Case',)",0.35,0.6363636363636362
+"('Flash Drive', 'Microsoft Office')","('Anti-Virus', 'Lab Top Case')",0.35,0.6363636363636362
+"('Microsoft Office',)","('Lab Top Case',)",0.35,0.6363636363636362
+"('Microsoft Office',)","('Anti-Virus', 'Lab Top Case')",0.35,0.6363636363636362
+"('Microsoft Office',)","('Flash Drive', 'Lab Top Case')",0.35,0.6363636363636362
+"('Microsoft Office',)","('Anti-Virus', 'Flash Drive', 'Lab Top Case')",0.35,0.6363636363636362
+"('Speakers',)","('Digital Camera',)",0.35,0.6363636363636362
+"('Anti-Virus', 'External Hard-Drive', 'Lab Top Case')","('Lab Top',)",0.25,0.625
+"('Anti-Virus', 'External Hard-Drive', 'Lab Top Case')","('Microsoft Office',)",0.25,0.625
+"('Anti-Virus', 'External Hard-Drive', 'Lab Top Case')","('Printer',)",0.25,0.625
+"('Anti-Virus', 'External Hard-Drive', 'Lab Top Case')","('Flash Drive', 'Microsoft Office')",0.25,0.625
+"('Anti-Virus', 'External Hard-Drive', 'Lab Top Case')","('Flash Drive', 'Printer')",0.25,0.625
+"('Anti-Virus', 'Flash Drive', 'Microsoft Office')","('External Hard-Drive',)",0.25,0.625
+"('Anti-Virus', 'Flash Drive', 'Microsoft Office')","('External Hard-Drive', 'Lab Top Case')",0.25,0.625
+"('Anti-Virus', 'Flash Drive', 'Microsoft Office')","('Lab Top Case', 'Printer')",0.25,0.625
+"('Anti-Virus', 'Flash Drive', 'Microsoft Office')","('Lab Top Case', 'Speakers')",0.25,0.625
+"('Anti-Virus', 'Flash Drive', 'Microsoft Office')","('Printer', 'Speakers')",0.25,0.625
+"('Anti-Virus', 'Lab Top Case', 'Speakers')","('Digital Camera',)",0.25,0.625
+"('Anti-Virus', 'Lab Top Case', 'Speakers')","('Flash Drive',)",0.25,0.625
+"('Anti-Virus', 'Lab Top Case', 'Speakers')","('Lab Top',)",0.25,0.625
+"('Anti-Virus', 'Lab Top Case', 'Speakers')","('Microsoft Office',)",0.25,0.625
+"('Anti-Virus', 'Lab Top Case', 'Speakers')","('Flash Drive', 'Microsoft Office')",0.25,0.625
+"('Anti-Virus', 'Microsoft Office')","('External Hard-Drive',)",0.25,0.625
+"('Anti-Virus', 'Microsoft Office')","('External Hard-Drive', 'Flash Drive')",0.25,0.625
+"('Anti-Virus', 'Microsoft Office')","('External Hard-Drive', 'Lab Top Case')",0.25,0.625
+"('Anti-Virus', 'Microsoft Office')","('Lab Top Case', 'Printer')",0.25,0.625
+"('Anti-Virus', 'Microsoft Office')","('Lab Top Case', 'Speakers')",0.25,0.625
+"('Anti-Virus', 'Microsoft Office')","('Printer', 'Speakers')",0.25,0.625
+"('Anti-Virus', 'Microsoft Office')","('External Hard-Drive', 'Flash Drive', 'Lab Top Case')",0.25,0.625
+"('Anti-Virus', 'Microsoft Office')","('Flash Drive', 'Lab Top Case', 'Printer')",0.25,0.625
+"('Anti-Virus', 'Microsoft Office')","('Flash Drive', 'Lab Top Case', 'Speakers')",0.25,0.625
+"('Anti-Virus', 'Microsoft Office')","('Flash Drive', 'Printer', 'Speakers')",0.25,0.625
+"('External Hard-Drive', 'Lab Top Case')","('Lab Top',)",0.25,0.625
+"('External Hard-Drive', 'Lab Top Case')","('Microsoft Office',)",0.25,0.625
+"('External Hard-Drive', 'Lab Top Case')","('Printer',)",0.25,0.625
+"('External Hard-Drive', 'Lab Top Case')","('Anti-Virus', 'Lab Top')",0.25,0.625
+"('External Hard-Drive', 'Lab Top Case')","('Anti-Virus', 'Microsoft Office')",0.25,0.625
+"('External Hard-Drive', 'Lab Top Case')","('Anti-Virus', 'Printer')",0.25,0.625
+"('External Hard-Drive', 'Lab Top Case')","('Flash Drive', 'Microsoft Office')",0.25,0.625
+"('External Hard-Drive', 'Lab Top Case')","('Flash Drive', 'Printer')",0.25,0.625
+"('External Hard-Drive', 'Lab Top Case')","('Anti-Virus', 'Flash Drive', 'Microsoft Office')",0.25,0.625
+"('External Hard-Drive', 'Lab Top Case')","('Anti-Virus', 'Flash Drive', 'Printer')",0.25,0.625
+"('Flash Drive',)","('Anti-Virus', 'Microsoft Office')",0.4,0.6153846153846154
+"('Anti-Virus', 'Flash Drive')","('External Hard-Drive',)",0.3,0.6
+"('Anti-Virus', 'Flash Drive')","('Lab Top',)",0.3,0.6
+"('Anti-Virus', 'Flash Drive')","('Speakers',)",0.3,0.6
+"('Anti-Virus', 'Flash Drive')","('External Hard-Drive', 'Lab Top Case')",0.3,0.6
+"('Anti-Virus', 'Flash Drive')","('Lab Top', 'Lab Top Case')",0.3,0.6
+"('Anti-Virus', 'Flash Drive')","('Lab Top Case', 'Printer')",0.3,0.6
+"('Anti-Virus', 'Flash Drive')","('Microsoft Office', 'Printer')",0.3,0.6
+"('Anti-Virus', 'Flash Drive')","('Microsoft Office', 'Speakers')",0.3,0.6
+"('Anti-Virus', 'Lab Top')","('External Hard-Drive',)",0.3,0.6
+"('Anti-Virus', 'Lab Top')","('Flash Drive',)",0.3,0.6
+"('Anti-Virus', 'Lab Top')","('Flash Drive', 'Lab Top Case')",0.3,0.6
+"('Flash Drive', 'Printer')","('Lab Top Case',)",0.3,0.6
+"('Flash Drive', 'Printer')","('Anti-Virus', 'Lab Top Case')",0.3,0.6
+"('Flash Drive', 'Printer')","('Anti-Virus', 'Microsoft Office')",0.3,0.6
+"('Lab Top', 'Lab Top Case')","('Flash Drive',)",0.3,0.6
+"('Lab Top', 'Lab Top Case')","('Anti-Virus', 'Flash Drive')",0.3,0.6
+"('Printer',)","('Lab Top Case',)",0.3,0.6
+"('Printer',)","('Anti-Virus', 'Lab Top Case')",0.3,0.6
+"('Printer',)","('Anti-Virus', 'Microsoft Office')",0.3,0.6
+"('Printer',)","('Flash Drive', 'Lab Top Case')",0.3,0.6
+"('Printer',)","('Anti-Virus', 'Flash Drive', 'Lab Top Case')",0.3,0.6
+"('Printer',)","('Anti-Virus', 'Flash Drive', 'Microsoft Office')",0.3,0.6

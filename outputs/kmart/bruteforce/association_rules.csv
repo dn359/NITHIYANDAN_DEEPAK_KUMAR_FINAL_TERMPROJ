@@ -1,0 +1,234 @@
+antecedent,consequent,support,confidence
+"('Sheets',)","('Kids Bedding',)",0.5,1.0
+"('Bed Skirts', 'Sheets')","('Kids Bedding',)",0.45,1.0
+"('Bed Skirts', 'Bedspreads')","('Kids Bedding',)",0.35,1.0
+"('Bed Skirts', 'Bedspreads')","('Sheets',)",0.35,1.0
+"('Bed Skirts', 'Bedspreads')","('Kids Bedding', 'Sheets')",0.35,1.0
+"('Bed Skirts', 'Bedspreads', 'Kids Bedding')","('Sheets',)",0.35,1.0
+"('Bed Skirts', 'Bedspreads', 'Sheets')","('Kids Bedding',)",0.35,1.0
+"('Bed Skirts', 'Shams', 'Sheets')","('Kids Bedding',)",0.35,1.0
+"('Bedspreads',)","('Bed Skirts',)",0.35,1.0
+"('Bedspreads',)","('Kids Bedding',)",0.35,1.0
+"('Bedspreads',)","('Sheets',)",0.35,1.0
+"('Bedspreads',)","('Bed Skirts', 'Kids Bedding')",0.35,1.0
+"('Bedspreads',)","('Bed Skirts', 'Sheets')",0.35,1.0
+"('Bedspreads',)","('Kids Bedding', 'Sheets')",0.35,1.0
+"('Bedspreads',)","('Bed Skirts', 'Kids Bedding', 'Sheets')",0.35,1.0
+"('Bedspreads', 'Kids Bedding')","('Bed Skirts',)",0.35,1.0
+"('Bedspreads', 'Kids Bedding')","('Sheets',)",0.35,1.0
+"('Bedspreads', 'Kids Bedding')","('Bed Skirts', 'Sheets')",0.35,1.0
+"('Bedspreads', 'Kids Bedding', 'Sheets')","('Bed Skirts',)",0.35,1.0
+"('Bedspreads', 'Sheets')","('Bed Skirts',)",0.35,1.0
+"('Bedspreads', 'Sheets')","('Kids Bedding',)",0.35,1.0
+"('Bedspreads', 'Sheets')","('Bed Skirts', 'Kids Bedding')",0.35,1.0
+"('Kids Bedding', 'Shams', 'Sheets')","('Bed Skirts',)",0.35,1.0
+"('Shams', 'Sheets')","('Bed Skirts',)",0.35,1.0
+"('Shams', 'Sheets')","('Kids Bedding',)",0.35,1.0
+"('Shams', 'Sheets')","('Bed Skirts', 'Kids Bedding')",0.35,1.0
+"('Bed Skirts', 'Bedding Collections')","('Bedspreads',)",0.25,1.0
+"('Bed Skirts', 'Bedding Collections')","('Kids Bedding',)",0.25,1.0
+"('Bed Skirts', 'Bedding Collections')","('Sheets',)",0.25,1.0
+"('Bed Skirts', 'Bedding Collections')","('Bedspreads', 'Kids Bedding')",0.25,1.0
+"('Bed Skirts', 'Bedding Collections')","('Bedspreads', 'Sheets')",0.25,1.0
+"('Bed Skirts', 'Bedding Collections')","('Kids Bedding', 'Sheets')",0.25,1.0
+"('Bed Skirts', 'Bedding Collections')","('Bedspreads', 'Kids Bedding', 'Sheets')",0.25,1.0
+"('Bed Skirts', 'Bedding Collections', 'Bedspreads')","('Kids Bedding',)",0.25,1.0
+"('Bed Skirts', 'Bedding Collections', 'Bedspreads')","('Sheets',)",0.25,1.0
+"('Bed Skirts', 'Bedding Collections', 'Bedspreads')","('Kids Bedding', 'Sheets')",0.25,1.0
+"('Bed Skirts', 'Bedding Collections', 'Bedspreads', 'Kids Bedding')","('Sheets',)",0.25,1.0
+"('Bed Skirts', 'Bedding Collections', 'Bedspreads', 'Sheets')","('Kids Bedding',)",0.25,1.0
+"('Bed Skirts', 'Bedding Collections', 'Kids Bedding')","('Bedspreads',)",0.25,1.0
+"('Bed Skirts', 'Bedding Collections', 'Kids Bedding')","('Sheets',)",0.25,1.0
+"('Bed Skirts', 'Bedding Collections', 'Kids Bedding')","('Bedspreads', 'Sheets')",0.25,1.0
+"('Bed Skirts', 'Bedding Collections', 'Kids Bedding', 'Sheets')","('Bedspreads',)",0.25,1.0
+"('Bed Skirts', 'Bedding Collections', 'Sheets')","('Bedspreads',)",0.25,1.0
+"('Bed Skirts', 'Bedding Collections', 'Sheets')","('Kids Bedding',)",0.25,1.0
+"('Bed Skirts', 'Bedding Collections', 'Sheets')","('Bedspreads', 'Kids Bedding')",0.25,1.0
+"('Bed Skirts', 'Bedspreads', 'Kids Bedding', 'Shams')","('Sheets',)",0.25,1.0
+"('Bed Skirts', 'Bedspreads', 'Shams')","('Kids Bedding',)",0.25,1.0
+"('Bed Skirts', 'Bedspreads', 'Shams')","('Sheets',)",0.25,1.0
+"('Bed Skirts', 'Bedspreads', 'Shams')","('Kids Bedding', 'Sheets')",0.25,1.0
+"('Bed Skirts', 'Bedspreads', 'Shams', 'Sheets')","('Kids Bedding',)",0.25,1.0
+"('Bedding Collections', 'Bedspreads')","('Bed Skirts',)",0.25,1.0
+"('Bedding Collections', 'Bedspreads')","('Kids Bedding',)",0.25,1.0
+"('Bedding Collections', 'Bedspreads')","('Sheets',)",0.25,1.0
+"('Bedding Collections', 'Bedspreads')","('Bed Skirts', 'Kids Bedding')",0.25,1.0
+"('Bedding Collections', 'Bedspreads')","('Bed Skirts', 'Sheets')",0.25,1.0
+"('Bedding Collections', 'Bedspreads')","('Kids Bedding', 'Sheets')",0.25,1.0
+"('Bedding Collections', 'Bedspreads')","('Bed Skirts', 'Kids Bedding', 'Sheets')",0.25,1.0
+"('Bedding Collections', 'Bedspreads', 'Kids Bedding')","('Bed Skirts',)",0.25,1.0
+"('Bedding Collections', 'Bedspreads', 'Kids Bedding')","('Sheets',)",0.25,1.0
+"('Bedding Collections', 'Bedspreads', 'Kids Bedding')","('Bed Skirts', 'Sheets')",0.25,1.0
+"('Bedding Collections', 'Bedspreads', 'Kids Bedding', 'Sheets')","('Bed Skirts',)",0.25,1.0
+"('Bedding Collections', 'Bedspreads', 'Sheets')","('Bed Skirts',)",0.25,1.0
+"('Bedding Collections', 'Bedspreads', 'Sheets')","('Kids Bedding',)",0.25,1.0
+"('Bedding Collections', 'Bedspreads', 'Sheets')","('Bed Skirts', 'Kids Bedding')",0.25,1.0
+"('Bedding Collections', 'Kids Bedding', 'Sheets')","('Bed Skirts',)",0.25,1.0
+"('Bedding Collections', 'Kids Bedding', 'Sheets')","('Bedspreads',)",0.25,1.0
+"('Bedding Collections', 'Kids Bedding', 'Sheets')","('Bed Skirts', 'Bedspreads')",0.25,1.0
+"('Bedding Collections', 'Sheets')","('Bed Skirts',)",0.25,1.0
+"('Bedding Collections', 'Sheets')","('Bedspreads',)",0.25,1.0
+"('Bedding Collections', 'Sheets')","('Kids Bedding',)",0.25,1.0
+"('Bedding Collections', 'Sheets')","('Bed Skirts', 'Bedspreads')",0.25,1.0
+"('Bedding Collections', 'Sheets')","('Bed Skirts', 'Kids Bedding')",0.25,1.0
+"('Bedding Collections', 'Sheets')","('Bedspreads', 'Kids Bedding')",0.25,1.0
+"('Bedding Collections', 'Sheets')","('Bed Skirts', 'Bedspreads', 'Kids Bedding')",0.25,1.0
+"('Bedspreads', 'Kids Bedding', 'Shams')","('Bed Skirts',)",0.25,1.0
+"('Bedspreads', 'Kids Bedding', 'Shams')","('Sheets',)",0.25,1.0
+"('Bedspreads', 'Kids Bedding', 'Shams')","('Bed Skirts', 'Sheets')",0.25,1.0
+"('Bedspreads', 'Kids Bedding', 'Shams', 'Sheets')","('Bed Skirts',)",0.25,1.0
+"('Bedspreads', 'Shams')","('Bed Skirts',)",0.25,1.0
+"('Bedspreads', 'Shams')","('Kids Bedding',)",0.25,1.0
+"('Bedspreads', 'Shams')","('Sheets',)",0.25,1.0
+"('Bedspreads', 'Shams')","('Bed Skirts', 'Kids Bedding')",0.25,1.0
+"('Bedspreads', 'Shams')","('Bed Skirts', 'Sheets')",0.25,1.0
+"('Bedspreads', 'Shams')","('Kids Bedding', 'Sheets')",0.25,1.0
+"('Bedspreads', 'Shams')","('Bed Skirts', 'Kids Bedding', 'Sheets')",0.25,1.0
+"('Bedspreads', 'Shams', 'Sheets')","('Bed Skirts',)",0.25,1.0
+"('Bedspreads', 'Shams', 'Sheets')","('Kids Bedding',)",0.25,1.0
+"('Bedspreads', 'Shams', 'Sheets')","('Bed Skirts', 'Kids Bedding')",0.25,1.0
+"('Bed Skirts',)","('Kids Bedding',)",0.5,0.9090909090909091
+"('Bed Skirts', 'Kids Bedding')","('Sheets',)",0.45,0.9
+"('Kids Bedding', 'Sheets')","('Bed Skirts',)",0.45,0.9
+"('Sheets',)","('Bed Skirts',)",0.45,0.9
+"('Sheets',)","('Bed Skirts', 'Kids Bedding')",0.45,0.9
+"('Bed Skirts', 'Shams')","('Kids Bedding',)",0.4,0.888888888888889
+"('Kids Bedding', 'Shams')","('Bed Skirts',)",0.4,0.888888888888889
+"('Bed Skirts', 'Kids Bedding', 'Shams')","('Sheets',)",0.35,0.8749999999999999
+"('Bedding Collections',)","('Kids Bedding',)",0.3,0.8571428571428572
+"('Kids Bedding',)","('Bed Skirts',)",0.5,0.8333333333333334
+"('Kids Bedding',)","('Sheets',)",0.5,0.8333333333333334
+"('Bedding Collections', 'Kids Bedding')","('Bed Skirts',)",0.25,0.8333333333333334
+"('Bedding Collections', 'Kids Bedding')","('Bedspreads',)",0.25,0.8333333333333334
+"('Bedding Collections', 'Kids Bedding')","('Sheets',)",0.25,0.8333333333333334
+"('Bedding Collections', 'Kids Bedding')","('Bed Skirts', 'Bedspreads')",0.25,0.8333333333333334
+"('Bedding Collections', 'Kids Bedding')","('Bed Skirts', 'Sheets')",0.25,0.8333333333333334
+"('Bedding Collections', 'Kids Bedding')","('Bedspreads', 'Sheets')",0.25,0.8333333333333334
+"('Bedding Collections', 'Kids Bedding')","('Bed Skirts', 'Bedspreads', 'Sheets')",0.25,0.8333333333333334
+"('Bed Skirts',)","('Shams',)",0.45,0.8181818181818181
+"('Bed Skirts',)","('Sheets',)",0.45,0.8181818181818181
+"('Bed Skirts',)","('Kids Bedding', 'Sheets')",0.45,0.8181818181818181
+"('Shams',)","('Bed Skirts',)",0.45,0.8181818181818181
+"('Shams',)","('Kids Bedding',)",0.45,0.8181818181818181
+"('Bed Skirts', 'Kids Bedding')","('Shams',)",0.4,0.8
+"('Bed Skirts', 'Kids Bedding', 'Sheets')","('Bedspreads',)",0.35,0.7777777777777777
+"('Bed Skirts', 'Kids Bedding', 'Sheets')","('Shams',)",0.35,0.7777777777777777
+"('Bed Skirts', 'Shams')","('Sheets',)",0.35,0.7777777777777777
+"('Bed Skirts', 'Shams')","('Kids Bedding', 'Sheets')",0.35,0.7777777777777777
+"('Bed Skirts', 'Sheets')","('Bedspreads',)",0.35,0.7777777777777777
+"('Bed Skirts', 'Sheets')","('Shams',)",0.35,0.7777777777777777
+"('Bed Skirts', 'Sheets')","('Bedspreads', 'Kids Bedding')",0.35,0.7777777777777777
+"('Bed Skirts', 'Sheets')","('Kids Bedding', 'Shams')",0.35,0.7777777777777777
+"('Kids Bedding', 'Shams')","('Sheets',)",0.35,0.7777777777777777
+"('Kids Bedding', 'Shams')","('Bed Skirts', 'Sheets')",0.35,0.7777777777777777
+"('Kids Bedding',)","('Shams',)",0.45,0.75
+"('Kids Bedding',)","('Bed Skirts', 'Sheets')",0.45,0.75
+"('Quilts',)","('Decorative Pillows',)",0.3,0.7499999999999999
+"('Bed Skirts',)","('Kids Bedding', 'Shams')",0.4,0.7272727272727273
+"('Shams',)","('Bed Skirts', 'Kids Bedding')",0.4,0.7272727272727273
+"('Bed Skirts', 'Bedspreads')","('Bedding Collections',)",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads')","('Shams',)",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads')","('Bedding Collections', 'Kids Bedding')",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads')","('Bedding Collections', 'Sheets')",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads')","('Kids Bedding', 'Shams')",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads')","('Shams', 'Sheets')",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads')","('Bedding Collections', 'Kids Bedding', 'Sheets')",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads')","('Kids Bedding', 'Shams', 'Sheets')",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads', 'Kids Bedding')","('Bedding Collections',)",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads', 'Kids Bedding')","('Shams',)",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads', 'Kids Bedding')","('Bedding Collections', 'Sheets')",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads', 'Kids Bedding')","('Shams', 'Sheets')",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads', 'Kids Bedding', 'Sheets')","('Bedding Collections',)",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads', 'Kids Bedding', 'Sheets')","('Shams',)",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads', 'Sheets')","('Bedding Collections',)",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads', 'Sheets')","('Shams',)",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads', 'Sheets')","('Bedding Collections', 'Kids Bedding')",0.25,0.7142857142857143
+"('Bed Skirts', 'Bedspreads', 'Sheets')","('Kids Bedding', 'Shams')",0.25,0.7142857142857143
+"('Bed Skirts', 'Kids Bedding', 'Shams', 'Sheets')","('Bedspreads',)",0.25,0.7142857142857143
+"('Bed Skirts', 'Shams', 'Sheets')","('Bedspreads',)",0.25,0.7142857142857143
+"('Bed Skirts', 'Shams', 'Sheets')","('Bedspreads', 'Kids Bedding')",0.25,0.7142857142857143
+"('Bedding Collections',)","('Bed Skirts',)",0.25,0.7142857142857143
+"('Bedding Collections',)","('Bedspreads',)",0.25,0.7142857142857143
+"('Bedding Collections',)","('Sheets',)",0.25,0.7142857142857143
+"('Bedding Collections',)","('Bed Skirts', 'Bedspreads')",0.25,0.7142857142857143
+"('Bedding Collections',)","('Bed Skirts', 'Kids Bedding')",0.25,0.7142857142857143
+"('Bedding Collections',)","('Bed Skirts', 'Sheets')",0.25,0.7142857142857143
+"('Bedding Collections',)","('Bedspreads', 'Kids Bedding')",0.25,0.7142857142857143
+"('Bedding Collections',)","('Bedspreads', 'Sheets')",0.25,0.7142857142857143
+"('Bedding Collections',)","('Kids Bedding', 'Sheets')",0.25,0.7142857142857143
+"('Bedding Collections',)","('Bed Skirts', 'Bedspreads', 'Kids Bedding')",0.25,0.7142857142857143
+"('Bedding Collections',)","('Bed Skirts', 'Bedspreads', 'Sheets')",0.25,0.7142857142857143
+"('Bedding Collections',)","('Bed Skirts', 'Kids Bedding', 'Sheets')",0.25,0.7142857142857143
+"('Bedding Collections',)","('Bedspreads', 'Kids Bedding', 'Sheets')",0.25,0.7142857142857143
+"('Bedding Collections',)","('Bed Skirts', 'Bedspreads', 'Kids Bedding', 'Sheets')",0.25,0.7142857142857143
+"('Bedspreads',)","('Bedding Collections',)",0.25,0.7142857142857143
+"('Bedspreads',)","('Shams',)",0.25,0.7142857142857143
+"('Bedspreads',)","('Bed Skirts', 'Bedding Collections')",0.25,0.7142857142857143
+"('Bedspreads',)","('Bed Skirts', 'Shams')",0.25,0.7142857142857143
+"('Bedspreads',)","('Bedding Collections', 'Kids Bedding')",0.25,0.7142857142857143
+"('Bedspreads',)","('Bedding Collections', 'Sheets')",0.25,0.7142857142857143
+"('Bedspreads',)","('Kids Bedding', 'Shams')",0.25,0.7142857142857143
+"('Bedspreads',)","('Shams', 'Sheets')",0.25,0.7142857142857143
+"('Bedspreads',)","('Bed Skirts', 'Bedding Collections', 'Kids Bedding')",0.25,0.7142857142857143
+"('Bedspreads',)","('Bed Skirts', 'Bedding Collections', 'Sheets')",0.25,0.7142857142857143
+"('Bedspreads',)","('Bed Skirts', 'Kids Bedding', 'Shams')",0.25,0.7142857142857143
+"('Bedspreads',)","('Bed Skirts', 'Shams', 'Sheets')",0.25,0.7142857142857143
+"('Bedspreads',)","('Bedding Collections', 'Kids Bedding', 'Sheets')",0.25,0.7142857142857143
+"('Bedspreads',)","('Kids Bedding', 'Shams', 'Sheets')",0.25,0.7142857142857143
+"('Bedspreads',)","('Bed Skirts', 'Bedding Collections', 'Kids Bedding', 'Sheets')",0.25,0.7142857142857143
+"('Bedspreads',)","('Bed Skirts', 'Kids Bedding', 'Shams', 'Sheets')",0.25,0.7142857142857143
+"('Bedspreads', 'Kids Bedding')","('Bedding Collections',)",0.25,0.7142857142857143
+"('Bedspreads', 'Kids Bedding')","('Shams',)",0.25,0.7142857142857143
+"('Bedspreads', 'Kids Bedding')","('Bed Skirts', 'Bedding Collections')",0.25,0.7142857142857143
+"('Bedspreads', 'Kids Bedding')","('Bed Skirts', 'Shams')",0.25,0.7142857142857143
+"('Bedspreads', 'Kids Bedding')","('Bedding Collections', 'Sheets')",0.25,0.7142857142857143
+"('Bedspreads', 'Kids Bedding')","('Shams', 'Sheets')",0.25,0.7142857142857143
+"('Bedspreads', 'Kids Bedding')","('Bed Skirts', 'Bedding Collections', 'Sheets')",0.25,0.7142857142857143
+"('Bedspreads', 'Kids Bedding')","('Bed Skirts', 'Shams', 'Sheets')",0.25,0.7142857142857143
+"('Bedspreads', 'Kids Bedding', 'Sheets')","('Bedding Collections',)",0.25,0.7142857142857143
+"('Bedspreads', 'Kids Bedding', 'Sheets')","('Shams',)",0.25,0.7142857142857143
+"('Bedspreads', 'Kids Bedding', 'Sheets')","('Bed Skirts', 'Bedding Collections')",0.25,0.7142857142857143
+"('Bedspreads', 'Kids Bedding', 'Sheets')","('Bed Skirts', 'Shams')",0.25,0.7142857142857143
+"('Bedspreads', 'Sheets')","('Bedding Collections',)",0.25,0.7142857142857143
+"('Bedspreads', 'Sheets')","('Shams',)",0.25,0.7142857142857143
+"('Bedspreads', 'Sheets')","('Bed Skirts', 'Bedding Collections')",0.25,0.7142857142857143
+"('Bedspreads', 'Sheets')","('Bed Skirts', 'Shams')",0.25,0.7142857142857143
+"('Bedspreads', 'Sheets')","('Bedding Collections', 'Kids Bedding')",0.25,0.7142857142857143
+"('Bedspreads', 'Sheets')","('Kids Bedding', 'Shams')",0.25,0.7142857142857143
+"('Bedspreads', 'Sheets')","('Bed Skirts', 'Bedding Collections', 'Kids Bedding')",0.25,0.7142857142857143
+"('Bedspreads', 'Sheets')","('Bed Skirts', 'Kids Bedding', 'Shams')",0.25,0.7142857142857143
+"('Kids Bedding', 'Shams', 'Sheets')","('Bedspreads',)",0.25,0.7142857142857143
+"('Kids Bedding', 'Shams', 'Sheets')","('Bed Skirts', 'Bedspreads')",0.25,0.7142857142857143
+"('Shams', 'Sheets')","('Bedspreads',)",0.25,0.7142857142857143
+"('Shams', 'Sheets')","('Bed Skirts', 'Bedspreads')",0.25,0.7142857142857143
+"('Shams', 'Sheets')","('Bedspreads', 'Kids Bedding')",0.25,0.7142857142857143
+"('Shams', 'Sheets')","('Bed Skirts', 'Bedspreads', 'Kids Bedding')",0.25,0.7142857142857143
+"('Bed Skirts', 'Kids Bedding')","('Bedspreads',)",0.35,0.7
+"('Bed Skirts', 'Kids Bedding')","('Bedspreads', 'Sheets')",0.35,0.7
+"('Bed Skirts', 'Kids Bedding')","('Shams', 'Sheets')",0.35,0.7
+"('Kids Bedding', 'Sheets')","('Bedspreads',)",0.35,0.7
+"('Kids Bedding', 'Sheets')","('Shams',)",0.35,0.7
+"('Kids Bedding', 'Sheets')","('Bed Skirts', 'Bedspreads')",0.35,0.7
+"('Kids Bedding', 'Sheets')","('Bed Skirts', 'Shams')",0.35,0.7
+"('Sheets',)","('Bedspreads',)",0.35,0.7
+"('Sheets',)","('Shams',)",0.35,0.7
+"('Sheets',)","('Bed Skirts', 'Bedspreads')",0.35,0.7
+"('Sheets',)","('Bed Skirts', 'Shams')",0.35,0.7
+"('Sheets',)","('Bedspreads', 'Kids Bedding')",0.35,0.7
+"('Sheets',)","('Kids Bedding', 'Shams')",0.35,0.7
+"('Sheets',)","('Bed Skirts', 'Bedspreads', 'Kids Bedding')",0.35,0.7
+"('Sheets',)","('Bed Skirts', 'Kids Bedding', 'Shams')",0.35,0.7
+"('Kids Bedding',)","('Bed Skirts', 'Shams')",0.4,0.6666666666666667
+"('Bed Skirts',)","('Bedspreads',)",0.35,0.6363636363636362
+"('Bed Skirts',)","('Bedspreads', 'Kids Bedding')",0.35,0.6363636363636362
+"('Bed Skirts',)","('Bedspreads', 'Sheets')",0.35,0.6363636363636362
+"('Bed Skirts',)","('Shams', 'Sheets')",0.35,0.6363636363636362
+"('Bed Skirts',)","('Bedspreads', 'Kids Bedding', 'Sheets')",0.35,0.6363636363636362
+"('Bed Skirts',)","('Kids Bedding', 'Shams', 'Sheets')",0.35,0.6363636363636362
+"('Shams',)","('Sheets',)",0.35,0.6363636363636362
+"('Shams',)","('Bed Skirts', 'Sheets')",0.35,0.6363636363636362
+"('Shams',)","('Kids Bedding', 'Sheets')",0.35,0.6363636363636362
+"('Shams',)","('Bed Skirts', 'Kids Bedding', 'Sheets')",0.35,0.6363636363636362
+"('Bed Skirts', 'Kids Bedding', 'Shams')","('Bedspreads',)",0.25,0.625
+"('Bed Skirts', 'Kids Bedding', 'Shams')","('Bedspreads', 'Sheets')",0.25,0.625
+"('Decorative Pillows',)","('Quilts',)",0.3,0.6
